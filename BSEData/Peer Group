@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>BSE - Contact Us - Feedback</title>
+<LINK REL="STYLESHEET" TYPE="text/css" HREF="/include/cssfiles/substyle.css">
+
+<script language="JavaScript">
+function check()
+{
+			
+	if((document.frmfeedback.user_mail.value==""))
+		{
+		alert("Please enter your email address");
+		document.frmfeedback.user_mail.select();
+		document.frmfeedback.user_mail.focus();
+		return false;
+		}
+		
+	if(document.frmfeedback.user_mail.value.indexOf(" ")==0)
+		{
+		alert("Please remove leading spaces from email address");
+		document.frmfeedback.user_mail.select();
+		document.frmfeedback.user_mail.focus();
+		return false;
+		}	
+	
+	var email =/[-a-zA-Z0-9_\.]+@[-a-zA-Z0-9]+\.[-a-zA-Z0-9\.]+/;
+	var res = document.frmfeedback.user_mail.value.match(email);
+	if(res!=document.frmfeedback.user_mail.value)
+		{
+			alert("Please enter a valid email-id")
+			document.frmfeedback.user_mail.focus();
+			document.frmfeedback.user_mail.select();
+			return false;
+		}
+	
+	if(document.frmfeedback.comments.value=="")
+		{
+		alert("Please enter your Feedback");
+		document.frmfeedback.comments.focus();
+		return false;
+		}
+		
+	if(document.frmfeedback.comments.value.indexOf(" ")==0)
+		{
+		alert("Please remove leading spaces from Feedback");
+		document.frmfeedback.comments.focus();
+		document.frmfeedback.comments.select();
+		return false;
+		}	
+}
+</script>
+
+</head>
+
+<BODY link="#0c355d"  vlink="#014bae" leftmargin=0 topmargin=0 marginheight="0" marginwidth="0">
+<center><img src="/Images/homepage/BSElogo01.gif" border="0"></center>
+<table align='center'>
+<tr>
+	<td height="15"></td>
+</tr>
+<tr>
+	<td height="15" align="center" colspan="3">
+		<font face='Arial' size='2' color='#FF0000'><strong> File not found ! <br>
+	</td>
+</tr>
+<tr>
+	<td height="10"></td>
+</tr>
+<tr>
+	<td width="15"></td>
+	<td align='center'>
+		<font face="arial" size="2" color="#1c355d"><b>Please report this error by filling in the below form. <br>
+		In case you wish to refer to specific section/url, add the url or name the section under 'Your feedback / comments' below. </b><br><br>
+		Thank you for visiting the BSE website.</font> 
+		
+	</td>
+	<td width="15"></td>
+</tr>
+<tr>
+	<td height="15"></td>
+</tr>
+<tr>
+	<td width="15"></td>
+	<td align="center">
+		<form name=frmfeedback id=frmfeedback action=/feedback/actionfeed.asp method=post onsubmit="return check()">
+			<table cellpadding="2" cellspacing="2" border="0">
+			<tr>
+				<td class="tbhead1"><input type="hidden" name="url" value="file_not_found_news">Your email address</td>
+				<td class="tbmain"><input type="text" name="user_mail" maxlength="100"></td>
+			</tr>
+			<tr>
+				<td class="tbhead1">Your feedback / comments</td>
+				<td class="tbmain"><textarea name=comments style="HEIGHT: 50px; WIDTH: 200px"></textarea></td>
+			</tr>
+			<tr>
+				<td class="tbmain" align="center" colspan="2"><input type="Submit" value="Submit"></td>		
+			</tr>
+			</table>
+		</form>	
+	</td>
+	<td width="15"></td>
+</tr>
+<tr>
+	<td align="center" colspan="3">
+		<B><A HREF="/index_op.htm"><font face="arial" size="2" color="#1c355d">HOME</A></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<A HREF="javascript:window.close()"><font face="arial" size="2" color="#1c355d">Close</A></font></B>
+	</td>
+</tr>
+<tr>
+	<td height="15"></td>
+</tr>
+</table>
+
+
+</BODY>
+</html>

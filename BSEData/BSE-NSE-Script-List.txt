@@ -1,0 +1,911 @@
+Name UTI - UGS 2000 ABB Ltd Aegis Logistics Ltd Ahmedabad Electricity Company Ltd Akar Laminators Ltd Alpha Drug India Ltd Altos India Ltd Amara Raja Batteries Ltd Ambalal Sarabhai Enterprises Ltd Housing Development Finance Corporation Ltd Amrut Industries Ltd (Wound-up) Andhra Petrochemicals Ltd Ansal Properties & Industries Ltd Apple Finance Ltd ICICI Ltd (Merged) Aruna Hotels Ltd Arvind Polycot Ltd (Merged) Bank of Rajasthan Ltd Bombay Dyeing & Mfg Asian Coffee Ltd (Merged) Asian Consolidated Industries Ltd Asian Hotels Ltd Assam Company Ltd ASSAMBROOK Ltd Atash Industries (India) Ltd (Wound-up) Atul Ltd ATV Projects India Ltd Autolite (India) Ltd Autoriders Finance Ltd Bajaj Electricals Bajaj Hindustan Ltd Bajaj Tempo Ltd Bajaj Auto Finance Ltd Balaji Distilleries Ltd Balaji Industrial Corporation Ltd Balrampur Chini Mills Ltd Banco Products (India) Ltd Century Textiles & Industries Ltd Bannari Amman Sugars Ltd BASF India Ltd Bata India Ltd Rayban Sun Optics India Ltd Bellary Steels & Alloys Ltd Best & Crompton Engineering Ltd Beta Naphthol Ltd Bharat Earth Movers Ltd Bharat Electronics Ltd Bharat Rasayan Ltd Bhagawati Gases Ltd Bhansali Engineering Polymers Ltd Bharti Telecom Ltd
+
+Nse code UGS2000 ABB AEGISCHEM AHMEDELEC AKARLAMIN ALPHADRUG ALTOS AMARAJABAT AMBASARABH HDFC AMRUTIND ANDHRAPET ANSALPROP APPLEIND ICICI ARUNASUGAR ARVINDPOLY BANKRAJAS BOMDYEING ASIANCOFFE ASIANCONSO ASIANHOTEL ASSAMCO ATASHIND ATULPROD ATVPROJ AUTOLITIND AUTORIDFIN BAJAJHIND BAJAJTEMPO BAJAUTOFIN BALAJIDIST BALAJIIND BALRAMCHIN BANCOPROD CENTURYTEX BANARISUG BASF BATAINDIA BAUSCHLOMB BELLARYSTL BESTCROMP BETANAPTOL BEML BEL BHARATRAS BAGWATIGAS BHANSALENG BHARTITELE
+
+Bse Code 250432 500002 500003 500004 500005 500006 500007 500008 500009 500010 500011 500012 500013 500014 500015 500016 500018 500019 500020 500021 500022 500023 500024 500025 500026 500027 500028 500029 500030 500031 500032 500033 500034 500035 500036 500038 500039 500040 500041 500042 500043 500044 500045 500046 500047 500048 500049 500050 500051 500052 500054
+
+Bhushan Steels & Strips Ltd Bihar Caustic & Chemicals Ltd Bihar Sponge Iron Ltd Binani Industries Ltd Birla Ericsson Optical Ltd Andhra Valley Power Supply Company Ltd (Merged) Ashok Leyland Finance Ltd Oswal Chemicals & Fertilizers Ltd Birla Global Finance Ltd Blow Plast Ltd Blue Star Ltd Disa India Ltd BNK Capital Markets Ltd Bank of Punjab Ltd Bongaigaon Refinery & Petro BPL Engineering Ltd BPL Ltd Nagarjuna Fertilizers & Chemicals Ltd Burroughs Wellcome (India) Ltd Cable Corporation of India Ltd Camphor & Allied Products Ltd Carrier Aircon Ltd Cauvery Software Engineering Systems Ltd Celeste International Ltd Akzo Nobel Chemicals Ltd Century Extrusions Ltd Century Extrusions Limited CESC Ltd Chambal Fertilisers & Chemicals Ltd Exide Industries Ltd Cipla Ltd Coates of India Ltd DIC India Limited Madura Coats Ltd Core Healthcare Ltd Credit Rating Information Services Of India Ltd Crompton Greaves Ltd CT Cotton Yarn Ltd Wyeth Ltd Dabur India Ltd Dalmia Cement (Bharat) Ltd Central India Polyesters Ltd Daewoo Motors India Ltd Arvind Mills Ltd Ballarpur Industries Ltd Bharat Heavy Electricals Ltd Hindustan Petroleum Corporation Ltd Indian Petrochemicals Corporation Ltd IFCI Ltd Jindal Iron & Steel Company Ltd Mahanagar Telephone Nigam Ltd Mangalore Refinery & Petro
+
+BHUSANSTL BIHARCAUST BIHARSPONG BINANIZINC BIRLAERIC ANDRAVALLY ASHKLEYFIN BINDALAGRO BGFL BLOWPLAST BLUESTARCO GEORGFISCH BANKPUNJAB BONGAIREFN BPLENGG BPL NAGARFERT BURRWELCOM CCI CAMPALLIED CARRIERAIR CAUVERSOFT CELESTE CENTAKCHEM CENTEXTRU CENTEXT CESC CHAMBLFERT CHLORIDIND CIPLA COATESIND DICIND MADURACOAT COREPARENT CRISIL CROMPGREAV CTCOTTON WYETHLEDE DABUR DALMIACEM CIPL DCMDAEWOO ARVINDMILL BILT BHEL HINDPETRO IPCL IFCI JINDALIRON MTNL MRPL
+
+500055 500057 500058 500059 500060 500061 500062 500063 500064 500066 500067 500068 500069 500070 500072 500073 500074 500075 500076 500077 500078 500079 500080 500081 500082 500083 500083 500084 500085 500086 500087 500089 500089 500090 500091 500092 500093 500094 500095 500096 500097 500099 500100 500101 500102 500103 500104 500105 500106 500107 500108 500109
+
+Chennai Petroleum Corp Reliance Capital Ltd State Bank of India Steel Authority of India Ltd Titan Industries Ltd UTI M-Plus 1991 Industrial Development Bank Of India DCW Ltd Dhampur Sugar Mills Ltd Diamines & Chem Digital Globalsoft Ltd Ambuja Cement Rajasthan Ltd Beck India Ltd Dr Reddys Laboratories Ltd EID Parry (India) Ltd Merck Ltd Eastern Mining & Allied Ind. Ltd Electrosteel Castings Ltd Elgitread (India) Ltd Empee Sugars & Chemicals Ltd Esab India Ltd Essar Oil Ltd Essel Propack Ltd Ester Industries Ltd Uniworth Textiles Ltd Fedders Lloyd Corporation Ltd Femnor Minerals Ltd Ferro Alloys Corporation Ltd FGP Ltd P. H. Capital Ltd Finolex Cables Ltd First Leasing Company of India Ltd Fishing Falcons Ltd Flat Products Equipments (India) Ltd Flex Industries Ltd Float Glass India Ltd (Merged) Foseco India Ltd GTC Industries Ltd G R Magnets Ltd Ganesh Benzoplast Ltd Futuristic Offshore Services and Chemical Ltd Garden Silk Mills Ltd German Remedies Ltd (Merged) GIC Big Value - GIC Global Boards Ltd GTL Ltd Global Trust Bank Ltd GMR Technologies & Industries Ltd Godfrey Phillips India Ltd Godrej Industries Ltd Goodlass Nerolac Paints Ltd Goodricke Group Ltd
+
+CHENNPETRO RELCAPITAL SBIN SAIL TITAN MASTPLUS91 IDBI DCW DHAMPURSUG DIGITALEQP AMBUJARAJN DRBECK DRREDDY EIDPARRY EMERCK EASTMINING ELECTCAST ELGITYRE EMPEESUGAR ESABINDIA ESSAROIL ESSELPACK ESTERIND FABWORTH FEDDERLOYD FEMNORMIN FERROALLOY FGPIND FINCABLES FIRSTLEASE FISHFALCON FLATPROD FLEX FLOATGLASS FOSECOIND GTCIND GRMAGNET GANESHBENZ GANESHANHY GARDENSILK GERMANREM GICBIGQDIS GLOBABOARD GLOBALTELE GLOBLTRUST GMRVASAVI GODFRYPHLP GODREJIND GOODLASNER GOODRICKE
+
+500110 500111 500112 500113 500114 500115 500116 500117 500119 500120 500121 500122 500123 500124 500125 500126 500127 500128 500131 500132 500133 500134 500135 500136 500138 500139 500140 500141 500142 500143 500144 500145 500146 500147 500148 500149 500150 500151 500152 500153 500154 500155 500156 500158 500159 500160 500161 500162 500163 500164 500165 500166
+
+Good Value Marketing Company Ltd Goodyear India Ltd Grapco Mining & Co Ltd GTN Textiles Ltd Gujarat Heavy Chemicals Ltd Gujarat Flourochemicals Ltd Gujarat Lease Financing Ltd Gujarat Telephone Cables Ltd Hamco Mining & Smelting Ltd Hanil Era Textiles Ltd Harig Crankshafts Ltd HCL Infosystems Ltd HDFC Bank Ltd Herbertsons Ltd Hero Honda Motors Ltd Himachal Futuristic Communications Ltd Himadri Chemicals & Industries Ltd Hindustan Construction Company Ltd Hindustan Oil Exploration Hindustan Sanitaryware & Industries Ltd Hindustan Zinc Ltd HINDUJA TMT LTD Hinduja TMT Ltd Hitech Drilling Services India Ltd (Merged) HMT Ltd Prag Bosimi Synthetics Ltd Hotel Leela Venture Ltd Hotel Sree Krishna Ltd (Merged) Hotline Glass Ltd Hytaisun Magnetics Ltd IBP Ltd I G Petrochemicals Ltd India Glycols Ltd India Lease Development Ltd India Polyfibres Ltd India Securities Ltd IndoCount Finance Ltd Indo Rama Synthetics (India) Ltd Indo Rama Synthetics (India) Ltd Indu Nissan Oxo Chemicals Industries Ltd Infosys Technologies Ltd Ingersoll-Rand (India) Ltd Insilco Ltd Integ Fin Ser International Travel House Ltd Ion Exchange (India) Ltd Agro Tech Foods Ltd ITC Hotels Ltd ITW Signode India Ltd J K Pharmachem Ltd Jain Irrigation Systems Ltd Jasch Industries Ltd
+
+GOODVALUE GOODYEAR GRAPCOMIN GTNTEXT GHCL GUJFLUORO GLFL GUJRATTELE HINDALLOYS HANILERA HARIGCRANK HCL-INSYS HDFCBANK HERBETSON HEROHONDA HIMACHLFUT HIMADCHEM HINDCONS HINDOILEXP HINDSANIT HINDZINC HTMT HINDUJAFIN HITECDRIL HMT PRAGBOSIMI HOTELEELA HOTELSRKRI HOTLINGLAS HYTSNMAGNT IBP IGPETRO INDIAGLYCO INDIALEASE INDIAPOLY INDIASEC INDORAMA INDORAMSYN INDUNISSAN INFOSYSTCH INGERRAND INSILCO INTLTRAVHS IONEXCHANG ITCAGRO ITCHOTEL ITWSIGNODE JKPHARMA JISLJALEQS JASCHIND
+
+500167 500168 500169 500170 500171 500173 500174 500175 500176 500177 500178 500179 500180 500181 500182 500183 500184 500185 500186 500187 500188 500189 500189 500190 500191 500192 500193 500194 500195 500197 500198 500199 500201 500202 500203 500204 500206 500207 500207 500208 500209 500210 500211 500212 500213 500214 500215 500216 500217 500218 500219 500220
+
+Jaypee Hotels Ltd JCT Electronics Ltd JCT Ltd Jindal Photo Films Ltd Jindal Polyester Ltd Jindal Vijayanagar Steel Ltd J K Dairy & Foods Ltd Jord Engineers India Ltd Kajaria Ceramics Ltd Kakatiya Cements Sugar & Industries Ltd Kalyani Steels Ltd Kanel Oil & Export Industries Ltd Kedia Distilleries Ltd Whirlpool of India Ltd K G Denim Ltd Kinetic Engineering Ltd Kirloskar Bros Kirloskar Pneumatic Ltd (Merged) Kirloskar Oil Engines Ltd Kirloskar Ferrous Industries Ltd Envair Electrodyne Ltd Kotak Mahindra Bank Ltd Kotak Mahindra Bank Ltd Krishna Filaments Ltd KSB Pumps Ltd L G Balakrishnan & Bros Ltd Trent Ltd TERNT LTD Lakshmi Machine Works Ltd LIC Housing Finance Ltd Lloyds Steel Industries Ltd LML Ltd Lok Housing & Constructions Ltd Lupin Ltd Lupin Laboratories Ltd (Merged) Lyka Labs Ltd Madras Cements Ltd Mafatlal Finance Company Ltd Mafatlal Industries Ltd Maharashtra Seamless Ltd Maharashtra Scooters Ltd Majestic Auto Ltd Manali Petrochemical Ltd Mardia Chemicals Ltd Baroda Rayon Corporation Ltd Max India Ltd Maxworth Orchards (India) Ltd McDowell & Company Ltd (Merged) Mesco Pharmaceuticals Ltd MTZ Industries Ltd Micro Plantae Ltd Mid India Industries Ltd
+
+JAYPEEHOT JCTELEC JCT JINDALFOTO JINDALPOLY JINDVIJSTL JKDAIRY JORDENGG KAJARIACER KAKATCEM KALYANISTL KANELOIL KEDIADIST KELVINATOR KGDENIM KINETICENG KIRLOSPNEU KIRLOSOIL KIRLOSFERR KIRLOSELEC KOTAKBANK KOTAKMAH KRISNAFILA KSBPUMPS LGBROS LAKME TRENT LAXMIMACH LICHSGFIN LLOYDSTEEL LML LOKHSG LUPIN LUPINLAB LYKALABS MADRASCEM MAFATLAFIN MAFATLAIND MAHSEAMLES MAHSCOOTER MAJESAUTO MANALIPET MARDIACHEM BARODARAYN MAX MARUTIORGN MCDOWELL MESCOPHARM METAZINC MICROPLANT MIDINDIA
+
+500221 500222 500223 500226 500227 500228 500231 500232 500233 500234 500235 500236 500237 500238 500239 500240 500241 500242 500243 500245 500246 500247 500247 500248 500249 500250 500251 500251 500252 500253 500254 500255 500256 500257 500258 500259 500260 500262 500264 500265 500266 500267 500268 500269 500270 500271 500272 500273 500274 500275 500276 500277
+
+Mideast (India) Ltd MIRC Electronics Ltd Century Enka Ltd Modern Threads (I) Ltd Modern Terry Towels Ltd Lords Chloro Alkali Ltd Royal Airways Ltd Montari Industries Ltd Moolchand Export Ltd (Liquidated) Morepen Laboratories Ltd Morgan Stanley Growth Fund Morgan Stanley Mutual Fund MRF Ltd Mrinal Dyeing & Mfg Co Ltd Mysore Cements Ltd Nagarjuna Construction Company Ltd Sesa Goa Ltd Nahar Spinning Mills Ltd National Peroxide Ltd Grasim Industries Ltd NEPC-India Ltd Nicholas Piramal India Ltd Indian Rayon & Industries Ltd NIIT Ltd NIIT LTD Ispat Industries Ltd J K Synthetics Ltd Nirlon Ltd Nirma Ltd Nova Electro Magnetics Ltd Novopan Industries Ltd Nuchem Ltd Oil & Natural Gas Corpn Ltd Oil Country Tubular Ltd Oriental Hotels Ltd Oriental Bank of Commerce Oswal Agro Furane Ltd Oswal Agro Mills Ltd Oswal Spinning and Weaving Mills Ltd Oswal Sugars Ltd Orkay Industries Ltd Padmini Technologies Ltd Panyam Cements & Mineral Industries Ltd Parekh Platinum Ltd Reliance Industries Ltd Patheja Forgings & Auto Parts Manufacturers Ltd Peacock Industries Ltd Pentafour Products Ltd Pentamedia Graphics Ltd Raymond Ltd Pidilite Industries Ltd Pittie Cement & Industries Ltd
+
+MIDEASTI MIRCELECTR CENTENKA MODTHREAD MODERNWOOL MODIALKALI MODILUFT MONTARIND MOOLEXPORT MOREPENLAB MORGANSTAN MORGANSTAN MRF MARINALDYE MYSORECEM NAGARCONST SESAGOA NAHARSPG NATPEROXID GRASIM NEPCMICON NICOLASPIR INDRAYON NIIT NIITLTD NIPPONDENR JKSYNTHETC NIRLON NIRMA NOVAELEMAG NOVOPANIND NUCHEM ONGC OILCOUNTUB ORIENTHOT ORIENTBANK OSWALAGFUR OSWALAGRO OSWALSPG OSWALSUG ORKAY PADMINPOLY PANYAMCEM PAREKHPLAT RELIANCE PATHEJAFOR PEACOCKIND PENTFRPROD PENTSFWARE RAYMOND PIDILITIND PITTIECEM
+
+500278 500279 500280 500282 500283 500284 500285 500286 500287 500288 500289 500289 500290 500291 500292 500294 500295 500296 500298 500300 500301 500302 500303 500304 500304 500305 500306 500307 500308 500309 500310 500311 500312 500313 500314 500315 500316 500317 500318 500319 500320 500321 500322 500323 500325 500326 500327 500328 500329 500330 500331 500332
+
+PIX TRANSMIS Premier Vinyl Flooring Ltd Birla Corporation Ltd Surya Roshni Ltd Prime Securities Ltd Prism Cement Ltd Priyadarshini Cement Ltd ITC Bhadrachalam Paperboards Ltd (Merged) Prudential Capital Market Ltd (Wound-up) Prudential Sugar Corporation Ltd Pudumjee Pulp & Paper Mills Ltd Punjab Tractors Ltd Punjab Communications Ltd Punjab Wireless Systems Ltd (Wound-up) Raasi Cement Ltd Rajasthan Spg. & Wvg. Mills Ltd Rajinder Steels Ltd Rajshree Sugars & Chemicals Ltd Rallis India Ltd Rama Newsprint & Paper Ltd Rama Paper Rama Petrochemicals Ltd Ranbaxy Laboratories Ltd RAPICUT CARBIDES LTD. Ras Propack Lamipack Ltd Recron Synthetics Ltd Real Value Appliances Ltd Reliance Petroleum Ltd (Merged) Remi Metals Gujarat Ltd Rolta India Ltd Rubfila International Ltd Ruchi Soya Industries Ltd RPG Transmission Ltd Salora International Ltd Samtel (India) Ltd Samtel Color Ltd Clariant (India) Ltd Sandvik Asia Ltd Sanghi Polyesters Ltd Satyam Computer Services Ltd Shreeji Phosphate Ltd Saw Pipes Ltd SBI Home Finance Ltd J K Corp Ltd SBI MGN-Trip RPG Life Sciences Ltd Shamken Spinners Ltd Shree Cement Ltd Shree Krishna Paper Mills & Industries Ltd Silverline Technologies Ltd BSES Ltd S M Dyechem Ltd
+
+PREMVINYL BIRLAJUTE SURYAROSNI PRIMESEC PRISMCEM PRIYADCEM ITCBHADRA PRUDENTCM PRUDMOULI PDUMJEPULP PUNJABTRAC PUNJCOMMU PUNJABWIRE RAASICEM RAJASSPG RAJINSTEEL RAJSREESUG RALLIS RAMANEWSPR RAMAPETRO RANBAXY RASLAMIPAK RAYMONDSYN REALVALAPL RELPETRO REMIMETAL ROLTA RUBFILINTL RUCHISOYA SAELTD SALORAINTL SAMTELTD SAMTEL CLARIANT SANDVIKAS SANGHIPOLY SATYAMCOMP SATYAMCEM SAWPIPES SBIHOMEFIN JKCORP SBIBAGTP91 SEARLEIND SHAMKNSPIN SHREECEM SILVERLINE REL SMDYECHEM
+
+500333 500334 500335 500336 500337 500338 500339 500340 500341 500342 500343 500344 500346 500347 500349 500350 500353 500354 500355 500356 500357 500358 500359 500360 500361 500362 500363 500364 500365 500366 500367 500368 500369 500370 500371 500372 500373 500374 500375 500376 500377 500378 500379 500380 500383 500384 500386 500387 500388 500389 500390 500391
+
+SOL Pharmaceuticals Ltd Southern Herbals Ltd Tata SSL Ltd (Merged) Henkel SPIC India Ltd GE Capital Transportation Financial Services Ltd Steelco Gujarat Ltd Tata Power Company Ltd Subhash Projects & Marketing Ltd Sundram Fasteners Ltd Sunflag Iron & Steel Company Ltd Supreme Petrochem Ltd Surya Agroils Ltd Swaraj Engines Ltd Tata Elxsi Ltd Tata Hydro-Electric Power Supply Co. Ltd (Merged) Associated Cement Co Thermax Ltd Thirumalai Chemicals Ltd Thomas Cook (India) Ltd Timex Watches Ltd Titagarh Industries Ltd Tokyo Plast International Ltd Tolani Bulk Carriers Ltd Torrent Pharmaceuticals Ltd TPI India Ltd Transchem Ltd TVS Electronics Ltd (Merged) TVS Suzuki Ltd (Merged) Gujarat Ambuja Cements Ltd Uniflex Cables Ltd Uniplas India Ltd Uniphos Enterprises Ltd Uniphos Enterprises Ltd United Western Bank Ltd Usha (India) Ltd Usha Ispat Ltd UTI Gr Mas93 UTI Mastergain UMI Special Steels Ltd UGS2000 Vardhman Spinning & General Mills Ltd Hindalco Industries Ltd Viral Filaments Ltd (Wound-up) Wartsila India Ltd West Coast Paper Mills Ltd Indian Aluminium Company Ltd Wockhardt Life Sciences Ltd Carol Info Services Ltd Hindusthan Development Corporation Ltd Hindustan Organic Chemicals Ltd Mather & Platt (India) Ltd Modern Denim Ltd
+
+SOLPHARMA SOUTHNHERB SPECIALSTL SPICFINE SRFFINANCE STEELCOGUJ TATAPOWER SUBHASPROJ SUNDRMFAST SUNFLAGIRN SUPPETRO SURYAGROIL SWARAJENG TATAELXSI TATAHYDRO ACC THERMAX TIRUMALCHM THOMASCOOK TIMEXWATCH TITAGRSTEL TOKYOPLAST TOLANIBULK TORNTPHARM TPINDIA TRANSCHEM TVSELEC TVSSUZUKI GUJAMBCEM UNIFLEX UNIPLAS UNIENTER UNITEDPHOS UNIWESTBNK USHAINDIA USHAISPAT MASTGROW93 MASTGAIN92 BIHARALLOY UGS2000 VARDHMNSPG HINDALC0 VIRALFILA WARTSILA WSTCSTPAPR INDAL WOCKLIFE CAROLINFO HINDEVELOP HOCL MATHPLATT MODERNDENM
+
+500393 500395 500396 500397 500398 500399 500400 500402 500403 500404 500405 500406 500407 500408 500409 500410 500411 500412 500413 500414 500416 500418 500419 500420 500421 500422 500423 500424 500425 500427 500428 500429 500429 500430 500431 500432 500433 500434 500435 500436 500439 500440 500442 500443 500444 500445 500446 500446 500448 500449 500450 500451
+
+NEPC Agro Foods Ltd Nihon Nirmaan Ltd Niraj Petrochemicals Ltd Paam Pharmaceuticals (Delhi) Ltd Pasupati Acrylon Ltd Pentafour Solec Technology Ltd PHIL Corporation Ltd Procter & Gamble Hygiene and Health Care Ltd Procter & Gamble Hygiene and Health Care Limited Mukand Ltd Mukand Limited SIV Industries Ltd Tata Telecom Ltd Avaya Global Connect Limited Ucal Fuel Systems Ltd Varun Shipping Company Ltd Harrisons Malayalam Ltd Western Paques (India) Ltd Federal Bank Ltd Tata Iron & Steel Co. Ltd SKF Bearings India Ltd Ashok Leyland Ltd Cummins India Ltd Videsh Sanchar Nigam Ltd Abbott India Ltd Bajaj Auto Ltd Bharat Forge Ltd Escorts Ltd Hindustan Motors Ltd Larsen & Toubro Ltd Larsen & Toubro Limited Mahindra & Mahindra Ltd Motor Industries Company Ltd Premier Automobiles Ltd Bharat Petroleum Corporation Ltd Siemens Ltd Philips India Ltd Tata Motors Ltd Voltas Ltd Great Eastern Shipping Company Ltd Essar Steel Ltd Essar Shipping Ltd Deepak Fertilizers & Petrochemicals Corp Ltd Smithkline Beecham Pharmaceuticals (I) Ltd(Merged) Excel Industries Ltd Excel Industries Ltd Garware Polyester Ltd Glaxosmithkline Pharma Ltd Gujarat Narmada Valley Fertilisers Company Ltd Novartis India Ltd Aventis Pharma Ltd Aventis Pharma Ltd
+
+NEPCAGRO NIHONIRMAN NIRAJPETRO PAAMPHARMA PASUPTACRY PENTFRSOLC PHILCORP P&G PGHH MUKAND MUKANDLTD SIVIND TATATELECM AVAYAGCL UCALFUEL VARUNSHIP HARRMALAYA WESTNPAQUE FEDERALBNK TISCO SKFBEARING ASHOKLEY KIRLOSKCUM VSNL BOOTSPHARM BAJAJAUTO BHARATFORG ESCORTS HINDMOTOR L&T LT M&M MICO PREMAUTO BPCL SIEMENS PHILIPS TATAMOTORS VOLTAS GESHIPPING ESSARGUJ ESSARSHIP DEEPAKFERT SMITHKLPHA EXCELIND EXCELINDUS GARWARPOLY GLAXO GNFC NOVARTIND AVENTIS HOECHST
+
+500452 500453 500454 500455 500456 500457 500458 500459 500459 500460 500460 500462 500463 500463 500464 500465 500467 500468 500469 500470 500472 500477 500480 500483 500488 500490 500493 500495 500500 500510 500510 500520 500530 500540 500547 500550 500560 500570 500575 500620 500627 500630 500645 500647 500650 500650 500655 500660 500670 500672 500674 500674
+
+GlaxoSmithkline Consumer Healthcare Ltd GlaxoSmithkline Consumer Healthcare Ltd Parke Davis (India) Ltd (Merged) Pfizer Ltd Gujarat State Fertilizers & Chemicals Ltd Hindustan Lever Ltd ICI (India) Ltd Futura Polyesters Ltd Indo Gulf Corporation Ltd (Merged) National Organic Chemical Industries Ltd Reckitt Benckiser (I) Ltd Southern Petrochemicals Industries Corporation Ltd Tata Chemicals Ltd Tamil Nadu Petro Products Ltd Zuari Industries Ltd Nestle India Ltd Cadbury India Ltd Tata Tea Ltd Asian Paints (India) Ltd Britannia Industries Ltd Colgate-Palmolive (India) Ltd EIH Ltd Indian Hotels Co Ltd Castrol India Ltd Kochi Refineries Ltd ITC Ltd Apollo Tyres Ltd CEAT Ltd Jaiprakash Industries Ltd Modi Rubber Ltd Sterlite Industries (India) Ltd Sterlite Industries (India) Limited Finolex Industries Ltd Videocon Appliances Ltd Videocon International Ltd Wimco Ltd UTI Mastershares State Bank of Bikaner and Jaipur Centrum Finance Ltd Oscar Investments Ltd Maestros Mediline Systems Ltd. TCI Finance Ltd INDUSTRIAL INVESTMENT TRUST Industrial & Prudential Investment Company Ltd Tata Investment Corporation Ltd Jayabharat Credit Ltd KILLICK NIXO Motor & General Finance Ltd WALCHAND CAPITAL LTD. Shaw Wallace & Company Ltd W H Brady & Co Ltd Bombay Burmah Trading Corporation Ltd
+
+GSKCONS SMITKLBECH PARKEDAVIS PFIZER GSFC HINDLEVER ICI INDIANORG INDOGULF NOCIL RECKCOLMAN SPIC TATACHEM TNPETRO ZUARIAGRO NESTLE CADBURY TATATEA ASIANPAINT BRITANNIA COLGATE EIHOTEL INDHOTEL CASTROL COCHINREFN ITC APOLLOTYRE CEAT JPIND MODIRUBBER STERLITE STER FINPIPE VDOCONAPPL VDOCONINTL WIMCO MASTERSHAR SBBJ
+
+TCIFINANCE
+
+INVESTCORP
+
+MOTOGENFIN SHAWALLACE BBTC
+
+500676 500676 500677 500680 500690 500696 500710 500720 500723 500730 500750 500758 500770 500777 500780 500790 500793 500800 500820 500825 500830 500840 500850 500870 500873 500875 500877 500878 500888 500890 500900 500900 500940 500945 500947 500950 500999 501061 501150 501179 501209 501242 501295 501298 501301 501311 501316 501343 501370 501379 501391 501425
+
+Greaves Ltd Greaves Cotton Ltd MAFATLAL DYES & CHEMICALS LTD MULLER & PHIPPS (I) LTD. Surat Electricity Company Ltd Thana Electric Supply Company Ltd Central Provinces Railways Company Ltd Chowgule Steamships Ltd Garware Shipping Corporation Ltd Scindia Steam Navigation Co. Ltd Associated Stone Industries (Kotah) Ltd Panchmahal Cement Company Ltd Sagar Cements Ltd Deccan Cements Ltd Mangalam Cement Ltd Narmada Cement Company Ltd OCL India Ltd NCL INDUSTRIES LTD. Saurashtra Cement Ltd Shree Digvijay Cement Co. Ltd Alembic Glass Industries Ltd Borosil Glass Works Ltd EXCEL GLASSES LTD. IAG Company Ltd RAASI REFRACTORIES LTD. Triveni Glass Ltd Andhra Pradesh Paper Mills Ltd Jolly Board Ltd Aurangabad Paper Mills Ltd Balkrishna Industries Ltd Mysore Paper Mills Ltd Nath Pulp & Paper Mills Ltd Orient Paper & Industries Ltd ROHIT PULP & PAPER MILLS LTD. Rollatainers Ltd Seshasayee Paper & Boards Ltd Shree Vindhya Paper Mills Ltd Sirpur Paper Mills Ltd SPECIALITY PAPERS LTD. Shree Bhawani Paper Mills Ltd VAPI PAPER Kitply Industries Ltd Arunoday Mills Ltd Sintex Industries Ltd Blue Blends (India) Ltd DAWN MILLS CO. LTD. DCM Ltd Forbes Gokak Ltd H P Cotton Textile Mills Ltd Hindoostan Spinning and Weaving Mills Ltd Neemtek Organic Products Ltd JAMSHRI RANJITSINGHJI SPG.& WVG.
+
+GREAVES GREAVESCOT
+
+SURATELEC
+
+CHOWGULSTM GARWARSHIP ASOCSTONE PANCHMACEM SAGARCEM DECCANCEM MANGLMCEM NARMADCEM ORISSACEM SAURASHCEM SHREDIGCEM ALEMBICLTD BOROGLASS INDOASAHI TRIVENSHET APPAPER AURANPAPER BALKRISIND NATHPULP ORIENTPPR ROLATAN SESHAPAPER SHRVINDPPR SIRPAPER
+
+KITPLYIND SINTEX BLUEBLENDS DCM FORBESGOK HINDSPG
+
+501455 501455 501458 501477 501736 501756 501827 501833 501848 501887 502015 502070 502090 502137 502157 502162 502165 502168 502175 502180 502207 502219 502223 502241 502271 502281 502330 502335 502352 502355 502405 502407 502420 502445 502448 502450 502452 502455 502465 502563 502589 502595 502700 502742 502761 502817 502820 502865 502873 502880 502893 502901
+
+Katare Spinning Mills Ltd Kesoram Industries Ltd Khatau Makanji Spinning & Weaving Company Ltd L D Textile Industries Ltd Lakshmi Mills Company Ltd Mahavir Spinning Mills Ltd Malwa Cotton Spinning Mills Ltd MODERN MILLS Morarjee Goculdas Spg & Wvg Co Ltd Morarjee Realties Ltd Pasupati Spinning & Weaving Mills Ltd PHOENIX MILLS LTD RELIANCE CHEMOTEX INDUST LTD Ruby Mills Ltd Simplex Mills Company Ltd Super Syncotex (India) Ltd Svadeshi Mills Company Ltd Swan Mills Ltd Victoria Mills Ltd GIS Ltd Shell Infotech Ltd AEONIAN INVESTMENTS CO LTD Jhantla Investments Ltd CMM BROADCASTING NETWORK LTD. SAHARA MEDIA GEODESIC INFORMATION SYSTEMS LTD. Geodesic Information Systems Limited BANSWARA SYNTEX LTD. GSL (India) Ltd APR Ltd Modipon Ltd NRC Ltd Birla VXL Ltd Shree Synthetics Ltd Shri Dinesh Mills Ltd SRF Ltd Siyaram Silk Mills Ltd Birla Transasia Carpets Ltd Fomento Resorts & Hotels Ltd Shree Rajasthan Syntex Ltd JAIPUR POLY. Priyadarshini Spinning Mills Ltd Hind Syntex Ltd Arihant Industries Ltd Asian Electronics Ltd Bharat Bijlee Ltd Elpro International Ltd EMCO Ltd GEE Ltd Hind Rectifiers Ltd Indo National Ltd Zensar Technologies Ltd
+
+KESORAMIND LDTEXT LAKSHMILL MAHAVIRSPG MALWACOTT MORARJESPG MORAREALTY PASUPATSPG
+
+RUBYMILLS
+
+SVADMILLS
+
+GEOINFO GSL APRAYON MODIPON NRC VXL SHREESYNTH SHRIDINESH SRF SIYARSILK
+
+SHRERAJSYN PSMSPGMILL HINDSYNTEX ARIHANTIND ASIANELEC BARATBIJLE ELPROINTL EMCOTRANS HINDRECT NIPPOBATRY ZENSARTECH
+
+502933 502937 502943 502954 502958 502986 502995 503015 503031 503031 503092 503100 503162 503169 503229 503297 503301 503310 503349 503488 503630 503655 503657 503673 503691 503699 503699 503722 503738 503749 503776 503780 503796 503800 503804 503806 503811 503823 503831 503837 503861 503873 503881 503897 503940 503960 504000 504008 504028 504036 504058 504067
+
+JYOTI LTD. Kaycee Industries Ltd INDOKEM LTD. Matsushita Lakhanpal Battery India Ltd Torrent Cables Ltd NELCO Ltd OTIS Elevator Company (India) Ltd Permanent Magnets Ltd HIGH ENERGY BATTERIES (I) LTD. Standard Batteries Ltd Universal Cables Ltd W S Industries (India) Ltd Willard India Ltd DELTON CABLE Electra (India) Ltd FCI OEN Connectors Ltd Deltron Ltd Lakshmi Electrical Control Systems Ltd Khaitan Electricals Ltd Modi Xerox Ltd - (Merged) Punjab Anand Lamp Industries Ltd (Merged) G P Electronics Ltd Polar Industries Ltd Tata Infotech Ltd Tata Infotech Ltd Ind Tra Deco Ltd Empower Industries India Ltd Datamatics Global Services Ltd Madras Aluminium Co Ltd UNI ABEX RAIPUR ALLOYS & STEELS LTD. Apollo Tubes & Steel Industries Ltd Asil Industries Ltd Bhagwati Autocast Ltd Universal Prime Aluminium Ltd Galada Power & Telecommunication Ltd Gontermann Peiper (India) Ltd GKW Ltd Indian Hume Pipe Company Ltd Indian Seamless Metal Tubes Ltd (Merged) INVEST & PRECISION CASTING LTD. K E C International Ltd Informed Technologies India Ltd Mahindra Ugine Steel Company Ltd Maharashtra Elektrosmelt Ltd Kaira Can Company Ltd ORISSA SPONGE IRON LTD. ORIENT ABRASIVES LTD Nahar International Ltd Rathi Alloys & Steel Ltd (Winded) RATHI ISPAT RATHI UDYOG
+
+LAKHNNATNL TORRENTCAB NELCO OTIS PERMAGNET STANDRDBAT UNIVCABLES WSIND WILLARDLTD ELECTRA OENCONNECT LAKSELECON KHAITANELE MODIXEROX PUNANDLAMP GPELECT POLARIND TATAUNISYS TATAINFOTE INDTRADECO
+
+MADRASALMN
+
+APOLLOTUBE ASILIND
+
+GALPOWTEL GONTERPEIP GKW INDIANHUME ISMETALTUB KECINTL MAHINDUGIN
+
+NAHARINTL RATHIALLOY
+
+504076 504084 504092 504093 504096 504112 504130 504132 504176 504180 504212 504220 504227 504240 504246 504250 504256 504258 504269 504272 504278 504286 504288 504290 504290 504336 504351 504375 504580 504605 504614 504628 504629 504646 504673 504697 504701 504704 504741 504754 504786 504807 504810 504823 504824 504840 504864 504879 504888 504895 504896 504903
+
+SCHRADER-DUNCAN LTD Swil Ltd STOVEC INDUSTRIES LTD STEWART & LLOYDS OF INDIA LTD Tayo Rolls Ltd Tinplate Company of India Ltd Tube Investments of India Ltd Welcast Steels Ltd Bhoruka Steel Ltd Automotive Axles Ltd Atlas Cycle (Haryana) Ltd Automobile Corporation Of Goa Ltd CLUTCH AUTO LTD SCOOTERS IND San Engineering & Locomotive Company Ltd TALBROS AUTOMOTIVE COMPON LTD Z F Steering Gear (India) Ltd Kalyani Brakes Ltd Kinetic Motor Company Ltd Kinetic Motor Company Limited Swaraj Mazda Ltd TIL Ltd Eicher Motors Ltd Aamcol Tools Ltd Alfred Herbert (India) Ltd Cimmco Birla Ltd DENISON HYD. Dynamatic Technologies Ltd G G Dandekar Machine Works Ltd GMM PFAUDLER LTD. Kirloskar Pneumatic Company Ltd KULKARNI POWER TOOLS LTD Manugraph India Ltd Mirch Technologies Ltd NESCO LTD Schlafhorst Engineering (India) Ltd Revathi Equpt TECHNO ELEC TEXMACO LTD. Texma Co Ltd Wendt India Ltd Dagger-Forst Tools Ltd DOLAT INVESTMENTS LTD. Zee Telefilms Ltd Goldcrest Finance (India) Ltd Millars India Ltd ABC Bearings Ltd CPEC Ltd Bimetal Bearings Ltd Chicago Pneumatic India Ltd (Merged) Bharat Gears Ltd Brady & Morris Engineering Company Ltd
+
+SWIL
+
+TATAYODOGA TINPLATE TUBEINVEST
+
+AUTOAXLES ATLASCYCLE AUTOCORP
+
+ZFSTEERING KALYANBRAK KINHONDA KINETICMOT SWARAJMAZD TIL EICHERMOT ALFREDHERB CIMCOBIRLA DYNAMATECH
+
+KGKHOSLA MANUGRAIND
+
+TEXMACOLTD WENDTINDIA DAGERFORST ZEETELE GOLCRESFIN ANTFRIBEAR BIMETBRG CHICAGPNUM BHARATGEAR
+
+504908 504920 504959 504960 504961 504966 504973 504988 504997 505010 505029 505036 505052 505141 505155 505160 505163 505185 505190 505190 505192 505196 505200 505212 505216 505230 505232 505242 505250 505255 505283 505299 505324 505336 505355 505358 505368 505397 505400 505400 505412 505426 505526 505537 505576 505650 505665 505678 505681 505684 505688 505690
+
+Elecon Engineering Company Ltd FAL INDUSTRIES LTD. GRAUER & WEIL (I) LTD. GAJRA BEVEL GEARS LTD. Gabriel India Ltd HERCULES HOISTS LTD Hindustan Everest Tools Ltd IFB Industries Ltd Singer India Ltd INTERNATIONAL COMBUSTION(I)LTD Goetze (India) Ltd Josts Engineering Company Ltd Otoklin Plants & Equipment Ltd PERF. CIRCLE Fag Bearings India Ltd Rane (Madras) Ltd DELCO REMY E Secals Ltd SNL Bearings Ltd JAIPAN INDUS Tak Machinery & Leasing Ltd T R F LTD. BALMER LAWRIE VANLEER LTD WPIL LTD. Vickers Systems International Ltd Alfa-Laval (India) Ltd Kennametal Widia India Ltd HINDUSTAN HARDY SPICER LTD CEEKAY DAIK Triton Valves Ltd Ennore Foundries Ltd SUDAL INDUS Prakash Industries Ltd Bhoruka Aluminium Ltd MAHESH.AGR. Steel Tubes of India Ltd Grindwell Norton Ltd Lakshmi Precision Screws Ltd Stanrose Mafatlal Investment & Finance Ltd Genesys International Corporation Ltd Nagarjuna Finance Ltd Vyapar Industries Ltd ETC Networks Ltd Hiran Orgochem Ltd GALAXY ENTERTAINMENT CORPN. LTD. BLISS CHEMICALS & PHARMA(I) LTD. Bayer ABS Ltd Adarsh Chemicals & Fertilisers Ltd Albright & Wilson Chemicals India Ltd Alembic Ltd Amines & Plasticizers Ltd Anuh Pharma Ltd
+
+ELECONENGG
+
+GABRIEL
+
+IFBIND SINGER GOETZEIND OTOKLIN FAGBEARING RANEMADRAS SECALS
+
+VICKERSYS ALFALAVAL WIDIA
+
+ENOREFONRY PRAKASH
+
+STEELTUBES GRINWELNOR LAXMIPREC GENESYS NAGARJUFIN ETCNETWORK
+
+ABSIND ADARSHCHEM ALBRMORARJ ALMBICHEM
+
+505700 505705 505710 505711 505714 505720 505725 505726 505729 505737 505744 505750 505783 505789 505790 505800 505817 505823 505827 505840 505850 505854 505864 505872 505875 505885 505890 505893 505923 505978 505982 506003 506022 506027 506041 506059 506076 506079 506105 506109 506129 506142 506156 506170 506186 506197 506222 506225 506230 506235 506248 506260
+
+Modison Metals Ltd Bayer (India) Ltd BORAX MORARJI LTD Chemplast Sanmar Ltd Citurgia Biochemicals Ltd Colour-Chem Ltd Coromandel Fertilisers Ltd Deepak Nitrite Ltd Dharamsi Morarji Chemicals Co Ltd Duphar International Ficom Organics Ltd Schenectady Herdillia Ltd GULF OIL COR IDI Ltd J K CHEMICAL Jayshree Chemicals Ltd JL MORISON (I) LTD Kanoria Chemicals & Industries Ltd KELTECH ENER Kemp & Co Ltd Kerala Chemicals & Proteins Ltd M.P.AGRO IND BAYER DIAGNOSTICS INDIA LTD Oriental Carbon & Chemicals Ltd Phillips Carbon Black Ltd AMAL LTD. Polychem Ltd Punjab Chemicals & Pharmaceuticals Ltd SADHANA NITROCHEM LTD. Sudarshan Chemical Industries Ltd Synthetics & Chemicals Ltd TECIL Chemicals & Hydro Power Ltd Ultramarine & Pigments Ltd Transpek Industry Ltd Unichem Laboratories Ltd Cabot India Ltd Zandu Pharmaceutical Works Ltd Mysore Petro Chemicals Ltd Hind Lever Chemicals Ltd Rhone-Poulenc (India) Ltd (Merged) Paushak Ltd Alkyl Amines Chemicals Ltd Fulford (India) Ltd Tuticorin Alkali Chemicals & Fertilisers Ltd Pharmacia Healthcare Ltd Pharmacia Healthcare Ltd Astrazeneca Pharma India Ltd Punjab Alkalies & Chemicals Ltd Tanfac Industries Ltd GUJ PETRO Vanavil Dyes & Chemicals Ltd Gujarat Themis Biosyn Ltd
+
+BAYER CHEMPLAST CITURGIBIO COLORCHEM COROMNFERT DEEPAKNITR DHARAMORAR FICOMORGAN HERDILCHEM INDYESTUF
+
+KANORICHEM
+
+KERALACHEM
+
+ORIENTCARB PHILIPCARB POLYCHEM PUNJABCHEM SUDARSCHEM SYNTHCHEM TECILCHEM ULTRMARINE TRANSPEK UNICHEMLAB CABOTINDIA ZANDUPHARM MYSORPETRO HINDLEVCHM RHONEPOULN ALKYLAMINE FULFORD TUTICORALK PHARMACIA ABBOTTLAB ASTRAIDL PUNALKALI TANFAC VANADYCHEM GUJTHEMIS
+
+506261 506285 506315 506355 506373 506390 506395 506401 506405 506414 506443 506460 506480 506485 506515 506520 506522 506525 506528 506530 506532 506543 506559 506579 506590 506597 506605 506618 506642 506655 506660 506680 506685 506687 506690 506700 506720 506734 506737 506747 506758 506767 506803 506808 506817 506817 506820 506852 506854 506858 506860 506879
+
+BHARTI HEALTHCARE LTD CHEMFAB ALKALIES LTD. Merind Ltd JAYSYNTH DYESTUFF (I) LTD MAKERS LABORATORIES LTD. Kappac Pharma Ltd Haryana Petrochemicals Ltd (Wound-up) J B Chemicals & Pharamaceuticals Ltd Rajasthan Petro Synthetics Ltd BLUE CHIP TEX INDUSTRIES LTD. LI-TAKA PHARMACEUTICALS LTD. NOBLE EXPLO. Belapur Industries Ltd BSI Ltd Jagatjit Industries Ltd Kesar Enterprises Ltd Kothari Sugars & Chemicals Ltd Kothari Sugars & Chemicals Ltd TILAKNAGAR INDUSTRIES LTD. Oudh Sugar Mills Ltd Ravalgaon Sugar Farm Ltd Sakthi Sugars Ltd Walchandnagar Industries Ltd Ponni Sugars (Orissa) Ltd KHODAY INDIA LTD. IFB Agro Industries Ltd Dharani Sugars & Chemicals Ltd Simbhaoli Sugar Mills Ltd Thiru Arooran Sugars Ltd Rajasthan Breweries Ltd United Breweries (Holdings) Ltd SHREE VANI SUGARS & INDUSTRIES Venus Sugar Ltd KOTHARI FERMENTATION & BIO LTD. Iswar Medical Services Ltd G M Breweries Ltd Rana Sugars Ltd Nahar Sugar & Allied Inds Ltd Piccadily Sugar & Allied Inds Ltd PRATAPPUR SUGAR & INDUSTRIES Girdharilal Sugar & Allied Industries Ltd RIGA SUGAR COMPANY LTD C J GELATINE PRODUCTS LTD Northland Sugar Complex Ltd MOUNT SHIVALIK INDUSTRIES LTD. Amrit Banaspati Co Ltd Associated Alcohols & Breweries Ltd Eastern Sugar & Industries Ltd FOODS & INNS LTD IVP Ltd KOVIL.L.MILL Milkfood Ltd
+
+MARIND
+
+HARYANPETR JBCHEPHARM RAJASPETRO
+
+BSI JAGAJITIND KESARENTER KOTHARISUG KOTARISUG OUDHSUG RAVALSUGAR SAKHTISUG WALCHANNAG PONNIORISA IFBAGRO DHARSUGAR SIMBHALSUG THIRUSUGAR RAJASBREW UNITEDBREW VENUSUGAR ISWARMEDIC GMBREW RANASUG NAHARSUGAR PICCADSUG NARMADASUG
+
+NORTHSUG
+
+ASOCALCHOL EASTSUGIND IVP
+
+506887 506894 506895 506910 506919 506938 506940 506943 506975 506981 506985 506991 507050 507070 507155 507180 507190 507190 507205 507260 507300 507315 507410 507427 507435 507438 507442 507446 507450 507456 507458 507468 507472 507474 507480 507488 507490 507492 507498 507500 507506 507508 507515 507516 507522 507525 507526 507528 507552 507580 507598 507621
+
+RASOI LTD. Wipro Ltd Orient Beverages Ltd GILT PACK Dhanuka Pesticides Ltd Dee-Pharma Ltd Sanderson Industries Ltd Godavari Fertilizers & Chemicals Ltd TTK Healthcare Ltd Sree Rayalaseema Alkali & Allied Chemicals Ltd Lime Chemicals Ltd TEEM LABORATORIES LTD Siltap Chemicals Ltd (Merged) Kanpur Plastipack Ltd Brite Automotive & Plastics Ltd (Merged) Tainwala Chemicals & Plastics (India) Ltd Jagsonpal Pharmaceutical Ltd KHAITAN CHEMICALS & FERT LTD Flexo Film Wraps (India) Ltd National Oxygen Ltd Gillette India Ltd WIRES & FABRIKS (SA) LTD. Ansal Housing & Construction Ltd COMPUTER PNT Mac Charles (India) Ltd ADDI INDUSTRIES LTD UNIPRODUCTS (I) LTD PIONEER INVEST CORPORATION LTD Lloyds Finance Ltd MALABAR BLDG Unitech Ltd V I P Industries Ltd Numech Emballage Ltd Dhruv Estates Ltd Enarai Finance Ltd Su-Raj Diamonds & Jewellery Ltd SOMA FINANCE & LEASING LTD PVD PLAST MOULD INDUSTRIES LTD. LKP Merchant Financing Ltd Jog Engineering Ltd Bajaj Steel Industries Ltd Kiduja Industries Ltd Continental Construction Ltd GUJARAT HOTELS LTD RAS RESORTS JINDAL HOTELS LTD SER Industries Ltd SIMMONDS-MARSHALL LTD. AFT Industries Ltd B & A Ltd Parry Agro Industries Ltd DPIL LTD.
+
+WIPRO
+
+DEEPHARMA SANDERIND GODAVRFERT TTKPHARMA SREERAYALK
+
+SILTAPCHEM BRITEAUTO TAINWALCHM JAGSNPHARM
+
+INDSHAVING ANSALHOUS
+
+LLOYDFIN UNITECH VIPIND
+
+ENARAIFIN SURAJDIAMN
+
+LKPMERFIN VMJOGENGG
+
+CONTNLCONS
+
+ASSAMFRONT PARRYAGRO
+
+507649 507685 507690 507711 507717 507722 507728 507732 507747 507753 507759 507761 507777 507779 507782 507785 507789 507794 507796 507813 507815 507817 507828 507833 507836 507852 507856 507864 507870 507874 507878 507880 507884 507886 507888 507892 507894 507910 507912 507942 507944 507946 507956 507960 507966 507981 507984 507998 508134 508136 508184 508197
+
+George Williamson (Assam) Ltd Rossell Industries Ltd LEDO TEA CO Hawkins Cooker Ltd Warren Tea Ltd BEST EASTERN HOTELS LTD Neelamalai Agro Industries Ltd Cosmo Films Ltd Diamant Carbon & Graphite Products Ltd Apollo Hospitals Enterprise Ltd SMIFS Capital Markets Ltd Everest Industries Ltd WELSPUN SYNTEX LTD. Indo Matsushita Carbon Company Ltd HB LEAS.PUB Motorol (I) Ltd SPANCO TELESYSTEMS & SOLUTIONS LTD. Bharat Hotels Ltd ABACUS COMPUTERS LTD Navneet Publications (India) Ltd TRANSW.INFOT Core Emballage Ltd Core Emballage Ltd Living Room Lifestyle Ltd Ruchi Infrastructure Ltd e-Serve International Ltd e-Serve International Ltd Netlink Solution (India) Ltd. Visaka Industries Ltd Tata Infomedia Ltd Tata Infomedia Ltd HATHWAY BHAWANI CABLETEL & DATACOM Nucent Finance Ltd Gufic bioSciences Ltd Dunlop India Ltd Govind Rubber Ltd Gujarat Reclaim & Rubber Products Ltd INDAG RUBBER M M Rubber Co Ltd PREMIER TYRE TVS Srichakra Ltd Bajaj Plastics Ltd Bakelite Hylam Ltd Benares Hotels Ltd Bombay Oxygen Corporation Ltd CRAVATEX LTD Bombay Paints Ltd Berger Paints (India) Ltd Caprihans India Ltd GRAPHITE INDIA LTD Graphite India Ltd Skanska Cementation India Ltd
+
+GEORGWILIM ROSSELL HAWKINCOOK WARRENTEA
+
+COSMOFILMS APOLLOHOSP ETERNEVRST INDOMATAPP MOTOROL BHARATHOT NAVNETPUBL COREBIO COREEMBLG RUCHINFRA E-SERVEINT CITICORSEC VISAKAIND TATAINFO TATAPRESS PRESSMAN GUFICBIO DUNLOP GOVINRUBER
+
+SRICHAKTYR BAJAJPLAST BAKELHYLAM
+
+BERGEPAINT CAPRIHANS GRAPHITE CARBEVFLOW TRAFALHSE
+
+508238 508274 508306 508486 508494 508664 508670 508814 508860 508869 508905 508906 508933 508941 508956 508965 508976 508984 508987 508989 508998 509009 509009 509011 509020 509028 509028 509040 509055 509069 509069 509073 509077 509079 509130 509148 509152 509162 509196 509220 509243 509419 509423 509438 509470 509472 509475 509480 509486 509488 509488 509496
+
+DSP Merrill Lynch Ltd Empire Industries Ltd Falcon Tyres Ltd Gammon India Ltd Garware-Wall Ropes Ltd GARWARE MARINE INDUSTRIES LTD. GOA CARBON LTD Graphite India Ltd (Merged) HARDCASTLE & WAUD MFG. CO. LTD. Hindustan Dorr-Oliver Ltd HEG Ltd Hindustan Composites Ltd Hyderabad Industries Ltd India Foils Ltd Indian Card Clothing Company Ltd DGP Securities Ltd Gestetner India Ltd Kodak India Ltd INDIAN RESORT HOTELS LTD INTERNATIONAL CONVEYORS LTD. SIEMENS VDO AUTOMOTIVE LTD. Jay Shree Tea & Industries Ltd BHORUKA GASES LTD. Kothari Industrial Corporation Ltd MANDOVI PELL MODERN SHARE AND STOCK BROKERS LTD Paper Products Ltd Punjab Woolcombers Ltd R J Shah & Company Ltd Shalimar Paints Ltd Supreme Industries Ltd U P HOTELS LTD VST Industries Ltd UB Engineering Ltd Swasti Vinayaka Synthetics Ltd Gulf Oil India Ltd - Merged INTEGRATED FINANCE LTD Jindal Drilling & Industries Ltd Mazda Industries Leasing Ltd Madras Motor Finance & Guarantee Company Ltd SAKTHI FINANCE LTD Dewan Housing Finance Corporation Ltd Weizmann Fincorp Ltd SAT INVESTECK LTD. Shiva Texyarn Ltd V B Desai Financial Services Ltd HFCL INFOTEL LTD. Kirloskar Leasing & Finance Ltd (Merged) FIRST CUSTODIAN FUND (I) LTD Kamanwala Industries Ltd WALL ST.FIN. Shriram Investments Ltd
+
+FALCONTYRE GAMMONIND GARWALLROP
+
+GRAPHIT HINDDORROL HEG HINDCOMPOS HYDRBADIND INDIAFOILS INDIANCARD GESTETNER INDIAPHOTO
+
+JAYSREETEA KOTHARINDL
+
+PAPERPROD PUNJABWOOL SHALMPAINT SUPREMEIND VSTIND UBENGG GULFOIL JINDALDRIL MAZDALEASE MADRASMFIN DEWANHOUS
+
+SHIVTEX VBDESAIFIN KIRLOSINV
+
+SHRIRAMINV
+
+509516 509525 509527 509550 509557 509563 509567 509590 509597 509627 509631 509635 509675 509684 509692 509695 509698 509704 509706 509709 509711 509715 509728 509732 509749 509760 509820 509839 509845 509874 509930 509960 509966 509992 510245 511026 511031 511034 511045 511055 511066 511072 511074 511076 511108 511110 511116 511120 511122 511131 511147 511164
+
+Shoppers Investment & Finance Co Ltd ICDS Ltd Can Fin Homes Ltd IL&FS Investment Managers Ltd Shriram Transport Finance Company Ltd Ind Ratna Tata Finance Ltd Cholamandalam Investment & Finance Company Ltd WHITE LION A BOI-Mf (90) BOI - Double Plus (1990) Nedungadi Bank Ltd (Merged) KMF Ltd CFL Capital Financial Services Ltd KIRL.INVEST. MEFCOM AGRO Canbonus - Canbank Mutual Fund Cantriple - Canbank Mutual Fund CRB Capital Market Ltd GRUH FINANCE LTD GRUH Finance Ltd PAL Credit & Capital Ltd GIC Cum.Bond SM Finance Ltd Alpic Finance Ltd VLS Finance Ltd Apple Credit Corporation Ltd INDIA CEMENTS CAPITAL & FINANCE LTD AD-MANUM FIN Canaan International Infotech Ltd Vatsa Corporations Ltd Mehta Integrated Finance Ltd Burr Brown India Ltd Videocon Leasing & Industrial Finance Ltd Videocon Industries Ltd DHANDAPANI F Munoth Communication Ltd DSJ Finance Corporation Ltd Peerless Abasan Finance Ltd Sharyans Resources Ltd Websity Infosys Ltd ATN International Ltd ATN International Ltd Integrated Enterprises (India) Ltd VAKRANGEE SOFTWARE LTD. Coimbatore Lakshmi Investment & Finance Co Ltd Dharani Finance Ltd Taurus - Star Indbank Merchant Banking Services Ltd Birla Century Finance Ltd (Merged) Chemox Securities Ltd VCK CAPITAL
+
+SHOPINVFIN ICDSLTD CANFINHOME IVC SRTRANSFIN INDRATNA TATAFIN CHOLAINV BOID2PLANA BOID2PLANB NEDUNGBANK KMF CEATFIN
+
+CANBONUS CANTRIPLUS CRBCAPS GRUH PALCREDIT GICBIGCBS SMFINANC ALPICFIN VLSFINANCE APPLECREDT
+
+VATSALTD BURRBROWN VDOLEASE VIDEOIND
+
+DSJFINCORP PEERABASAN SHARYANRES SUNRISESEC ARIHANTCRE ATNINT INTEGENT CLIFCO TAURUSTAR INDBANKMER BIRLCENFIN CHEMOXSEC
+
+511180 511194 511196 511208 511218 511222 511231 511243 511246 511258 511259 511264 511270 511272 511274 511276 511280 511284 511286 511288 511288 511306 511314 511318 511325 511333 511339 511355 511359 511367 511371 511377 511383 511389 511389 511393 511401 511405 511411 511413 511415 511427 511427 511429 511431 511435 511451 511459 511473 511479 511485 511493
+
+BHARAT BHUSAN SHARE & STOCK SYNERGY LOG-IN SYSTEMS LTD. Capital Trust Ltd Vivo Bio Tech Ltd Niyati Industries Ltd SRG Infotech Ltd LIVEWELL HOME FINANCE LTD NDA SECURITIES LTD. GSB FINANCE MORARKA FINANCE LTD. NETWORTH STOCK BROKING LTD. Times Guaranty Ltd Som Datt Finance Corporation Ltd Allianz Capital & Management Services Ltd SHRACHI SEC. Libord Infotech Ltd YASH MANAGEMENT & SATELLITE LTD Arihant Capital Markets Ltd Shloka Infotech Ltd DCM Financial Services Ltd Harvic Management Services (India) Ltd JIK Industries Ltd BRESCON CORPORATE ADVISORS LTD. Sambhaav Media Ltd DJS Stock & Shares Ltd Madhur Capital & Finance Ltd Wisec Global Ltd Omega Interactive Technologies Ltd Cogent Ventures (India) Ltd Sugal & Damani Finlease Ltd Cyberspace Ltd Nettlinx Ltd Premium Capital Market & Investments Ltd Nam Credit & Investment Consultants Ltd FACTS SECURITIES LTD Mittal Securities Finance Ltd GIC Housing Finance Ltd Damania Capital Markets Ltd Indcap Finance Ltd Mathew Easow Research Securities Ltd Warner Multimedia Ltd Ajcon Global Services Ltd Chartered Capital & Investment Ltd ACTION FINANCIAL SERVICES(INDIA) Cubical Financial Services Ltd RELIC TECHNOLOGIES LTD. NCJ INTERNAT Escorts Finance Ltd KINETIC FINCAP LTD. Capman Financials Ltd Somani Swiss Industries Ltd TRC Financial Services Ltd
+
+NIYATILEAS SRGINFOTEC
+
+TIMESGTY SOMDUTTFIN
+
+DCMFINSERV JIKINDS PERLENGINF
+
+BHUPENCAP CYBERSPACE
+
+GICHSGFIN DAMANIACM
+
+ESCORTSFIN
+
+SOMANISWIS
+
+511501 511503 511505 511509 511523 511525 511533 511535 511543 511549 511551 511559 511571 511589 511591 511593 511601 511605 511607 511611 511613 511618 511628 511630 511636 511638 511642 511644 511650 511654 511656 511658 511660 511664 511668 511672 511676 511678 511682 511688 511690 511692 511696 511706 511710 511712 511714 511716 511718 511720 511722 511730
+
+Ushdev International Ltd CHOKHANI SEC FCGL Industries Ltd ASCENT EXIM (INDIA) LTD. Shalibhadra Finance Ltd Kosian Industries Ltd Muthoot Capital Services Ltd MASTER TRUST LTD Chamatkar.net (India) Ltd SHONKH TECH Chemox Chemical Industries Ltd (Wound-up) Natraj Commercial Enterprises Ltd Deccan Gold Mines Ltd. United Phosphorous Limited Doctors Biotech India Ltd CRANES SOFTWARE LTD. Cranes Software International Ltd ROSE MERC LTD. ETP Corporation Ltd Advance Technologies Ltd. YASHRAJ SEC. Sanjeevni Industries Ltd Insul Electronic Ltd IOL Broadband Ltd Aridhi Hi-Tech Industries Ltd Jay Bharat Sarees Ltd Jai Corp Ltd Ashirwad Capital Ltd Swasti Vinayaka Finvest Corporation Ltd MEDIA MATRIX Aroni Chemical Industries Ltd Visisth Merchantile Ltd Shirpur Gold Refinery Ltd Bhagyanagar Metals Ltd Wheel & Axle Textiles Ltd Sterling Biotech Ltd Sterling Biotech Ltd Bijlee Textiles Ltd Aravali Securities & Finance Ltd Cressanda Solutions Ltd Western India Industries Ltd (Wound-up) Shardul Securities Ltd IPower Solutions India Ltd MTZ POLYFILMS LTD. Apollo Finvest (I) Ltd INNOVISION E-COMMERCE LTD. Lloyds Metals & Engineers Ltd Oasis Securities Ltd GSLOT ENTERTAINMRNT LTD. SHALIMAR AGRO PRODUCTS MANIYAR INDIA LTD Super Sales Agencies Ltd
+
+USHDEVINT FASTCAP
+
+CHEMOXCHEM
+
+UNIPHOS
+
+CRANESSOFT ETPCORP
+
+JAICORPLTD
+
+AGEEGOLD BAGYAMETAL STERLINBIO STERLINTEA ARAVALISEC WESTINDIA SHRIYAMSEC
+
+LLOYDMETAL
+
+SUPERSALES
+
+511736 511742 511744 511750 511754 511760 511766 511768 512018 512028 512042 512047 512068 512070 512079 512093 512093 512115 512127 512149 512167 512175 512179 512185 512219 512233 512237 512247 512257 512267 512273 512279 512289 512296 512297 512299 512299 512313 512344 512379 512387 512393 512405 512424 512437 512447 512455 512489 512493 512499 512519 512527
+
+VISISTH TRADERS & FINANCE LTD. State Trading Corporation of India Ltd BHARAT COMMERCE & INDUSTRIES L Asahi Infrastructure & Projects Ltd Kiran Overseas Exports Ltd (Wound-up) Pittie Finance Ltd Zenith Exports Ltd Satnam Overseas Ltd RT EXPORTS LTD AVANTI FEEDS LTD. Gujarat NRE Coke Ltd Zodiac-JRD-MKJ Ltd Sita Enterprises Ltd Keynote Corporate Services Ltd Adani Exports Ltd Haria Exports Ltd Rupangi Impex Ltd (Wound-up) BHANDARI HOSIERY EXPORTS LTD. Orind Exports Ltd RLF Ltd ORBIT EXPORT SAVERA HOTELS LTD STOCK NET INTERNATIONAL LTD. ARTILLEGENCE VBC FERRO ALLOYS LTD. Tata Sponge Iron Ltd Nava Bharat Ferro Alloys Ltd Bharat Pipes & Fittings Ltd Rajendra Mechanical Industries Ltd Trans Freight Containers Ltd SHIVALIK BIMETAL CONTROLS LTD GANDHI SPECIAL TUBES LTD Amforge Industries Ltd Oriental Containers Ltd Orient Containers Ltd Metalman Industries Ltd Balasore Alloys Ltd ACROW (I) LTD. STI India Ltd Steel Strips & Tubes Ltd National Steel & Agro Industries Ltd Hoganas India Ltd Uttam Galva Steels Ltd Pennar Industries Ltd IND CHARGE Choksi Tubes Company Ltd MSL Industries Ltd Jyoti Structures Ltd JAY USHIN LTD. STEEL STRIPS WHEELS LTD Mukesh Steels Ltd Kanakdhara Steel Ltd
+
+STCINDIA
+
+KIRANOVER PITTIEFIN ZENITHEXPO SATNAMOVER
+
+GUJNRECOKE ZODJRDMKJ KEYCORPSER ADANIEXPO HARIAEXPO RUPANGIMPX
+
+IPITATASPO NAVBARFERO BHARATPIPE TRANSFREIT
+
+AMFORGEIND ORIENTCONT OCL METALPIPE ISPATALLOY STINDIA NATNLSTEEL HOGANAS UTTAMSTL PENARSTEEL CHOKSITUBE MSLIND JYOTISTRUC
+
+KANAKSTEEL
+
+512529 512531 512533 512535 512543 512551 512553 512559 512565 512573 512579 512587 512589 512597 512599 512604 512606 512608 512616 512618 512626 512634 512640 512642 513005 513010 513023 513028 513043 513063 513097 513108 513117 513121 513121 513131 513142 513149 513151 513173 513179 513207 513216 513228 513235 513240 513242 513250 513252 513262 513265 513267
+
+Man Industries (India) Ltd Super Forgings & Steels Ltd Thapar Ispat Ltd Ruchi Strips & Alloys Ltd MODERN STEEL Pennar Profiles Ltd Kusum Ingots & Alloys Ltd Ambuja Electrocastings Ltd Bhuwalka Steel Industries Ltd Ahmednagar Forgings Ltd Grand Foundry Ltd Jalan Forgings Ltd Shree Precoated Steels Ltd COCHIN MINERALS & RUFILE LTD Isibars Ltd Carborundum Universal Ltd Indian Seamless Steels & Alloys Ltd (Merged) Nova Steels (India) Ltd VALLABH STEELS LTD Ashiana Ispat Ltd Pennar Aluminium Company Ltd Alcobex Metals Ltd Shimoga Technologies Ltd Bloom Industries Ltd Indo Zinc Ltd Tata Metaliks Ltd SHAH ALLOYS LTD. Monnet Ispat Ltd KANISHK ST Asian Alloys Ltd MAHALAXMI SEAMLESS LTD SIMPLEX CASTING LTD Shree Steel Wire Ropes Ltd KALYANI FORG Panchmahal Steel Ltd Aditya Ispat Ltd S.R.INDUSTRIES LTD. STEELCAST LTD PITTI LAMIN GLITTEK GRANITES LTD. Stelco Strips Ltd PRADEEP METALS LTD. VARDHMAN INDUSTRIES LTD Sharda Ispat Ltd Real Strips Ltd Viraj Alloys Ltd Nova Iron & Steel Ltd Midwest Iron & Steel Co Ltd FOUNDRY FUEL PRODUCTS LTD SB & T International Ltd Surana Industries Ltd HIND.COPPER
+
+MANALUMN SUPERFORGE THAPRISPAT RUCHISTRIP
+
+KUSUMINGOT AMBUJELCST BUWALKASTL AHMEDFORGE GRANDFONRY JALANFORG SHREPRECOT ISIBARS CARBORUNIV ISSAL NOVASTEEL
+
+PENNARALUM
+
+INDOZINC TATAMETALI MONNETISPA ASIANALLOY
+
+PANCHMSTEL
+
+VIRAJALLOY NOVAIRNSTL MIDWESTIRN SB&TINTL
+
+513269 513277 513285 513295 513303 513309 513315 513317 513333 513335 513343 513347 513349 513353 513361 513375 513385 513395 513397 513401 513405 513412 513418 513422 513428 513434 513436 513446 513456 513458 513460 513472 513488 513509 513511 513513 513515 513517 513519 513528 513530 513532 513534 513548 513558 513562 513566 513577 513579 513583 513597 513599
+
+Lanco Industries Ltd Shivalik Loha Mills Ltd Inlac Granston Ltd TULSYAN NEC LTD. Axel Polymers Ltd Dewan Steels Ltd Mideast Integrated Steels Ltd Neyveli Lignite Corporation Ltd Multi Arc India Ltd Spectra Industries Ltd JMT AUTO LTD. KAJARIA IRON Solid Granites Ltd Mardia Steel Ltd (Wound-up) SHILP GRAVURES LTD Kitti Steels Ltd Himalaya Granites Ltd Aro Granite Industries Ltd Deepak Spinners Ltd JBF Industries Ltd LOYAL TEXTILES MILLS LTD Himatsingka Seide Ltd BSL Ltd Richimen Silks Ltd RAJASTHAN POLYESTERS LTD PBM POLYTEX LTD Gupta Synthetics Ltd Eskay K`nIT(India) Ltd Arihant Cotsyn Ltd KONARK SYN. Aryan Finefab Ltd SURYALATA SPINNING MILLS LTD. Suryavanshi Spinning Mills Ltd TT LTD. Uniworth Ltd Shamken Multifab Ltd Enkay TexoFood Inds. (Merged) Mahendra Petrochemicals Ltd WELSPUN IND Indian Acrylics Ltd GANESH POLY. Vardhman Polytex Ltd Asia Fab Ltd Sun Polytron Industries Ltd Arrow Webtex Ltd SHAMKEN COTSYN LTD. SUMEET INDUSTRIES LTD. Krishna Lifestyle Technologies Ltd Ramgopal Polytex Ltd Madhumilan Syntex Ltd Sangam (India) Ltd IKAB Securities & Investment Ltd
+
+LANCOIND SHIVLOHMIL
+
+DEWANSTEEL MIDEASTSTL NEYVELILIG MULTIARC
+
+MARDIASTL KITSTEEL HIMGRANITE DEEPAKSPIN JBFIND HIMATSEIDE BSL RICHSILK
+
+SHREEKRPET ARIHANTCOT ARYAFINFAB SURYVANSPG WOOLWORTH SHAMKNFAB ENKTEXFOOD MAHENDSUIT WELSPUNIND INDIANACRY VARDMNPOLY KESWANISYN
+
+SHREEKRPOL RAMGOPOLY MADHUSYNTX SANGAMIND
+
+513605 513615 513617 513629 513642 513646 513652 513683 513685 513687 513691 513693 513699 513707 513709 513711 513723 513729 514030 514034 514036 514043 514045 514048 514073 514087 514116 514118 514122 514128 514134 514138 514140 514142 514144 514152 514154 514160 514162 514165 514167 514175 514183 514189 514193 514209 514211 514221 514223 514230 514234 514238
+
+Suzlon Fibres Ltd MH MILLS IND Eastern Silk Industries Ltd Hytone Texstyles Ltd SEASONS TEXT ZENITH FIBRES LTD BHILWARA SPINNING LTD AARVEE DENIMS & EXPORTS LTD. Uniworth International Ltd Ashima Ltd PIONEER EMBROIDERIES LTD VIPPY SPIN. S.Kumars Nationwide Ltd HANJER FIBRE Jaihind Synthetics Ltd Raghuvir Synthetics Ltd Kamadgiri Synthetics Ltd Omnitex Industries (India) Ltd Patspin India Ltd Nachmo Knitex Ltd Winsome Yarns Ltd SSTELLA SILKS LTD. Premier Polyfilm Ltd EVERLON SYNTHETICS LTD YARN SYNDICATE LTD Maikaal Fibres Ltd Octagon Industries Ltd Orton Synthetics Ltd SARUP TANNER OXFORD INDUSTRIES LTD DUJODWALA PRODUCTS LTD Sharada Terry Products Ltd BHAGYANAGAR WOOD PLAST LTD. Jyoti Resins and Adhesives Ltd Mahalaxmi Rubtech Ltd Shaan Interwell (India) Ltd TAI CHONBANG TEXTILE INDS. LTD. Winsome Textile Industries Ltd FAIRDEAL FIL Aafloat Textiles (India) Ltd Arihant Threads Ltd THAMBI MOD. India Polyspin Ltd Sonia Textiles Ltd Spartek Ceramics India Ltd Modern Insulators Ltd Regency Ceramics Ltd Victory Glass & Industries Ltd Asahi India Glass Ltd Bell Ceramics Ltd Murudeshwar Ceramics Ltd SAINT GOBAIN
+
+SUZLONFIBR EASTSILK
+
+UNIWORTINT ASHIMASYN
+
+SKUMARSYNF
+
+PATSPINLTD WINSOMYARN PREMIERPOL
+
+MAIKALFIBR GUJCOTEX ORTONSYNTH
+
+SHARADTERY
+
+SHAANINTER
+
+AKAIMPEX ARIHANTRED
+
+SPARTEK MODINSULAT REGENCERAM VICTGLASS ASAHIINDIA BELCERAMIC MURUDCERA
+
+514240 514242 514246 514258 514264 514266 514272 514274 514282 514286 514300 514302 514304 514308 514312 514316 514322 514324 514326 514328 514348 514350 514354 514358 514378 514380 514386 514408 514412 514414 514418 514422 514442 514448 514450 514458 514464 514470 514474 514476 514480 514484 514490 514492 515003 515008 515018 515026 515030 515035 515037 515043
+
+ANANT RAJ INDUSTRIES LTD Madhusudan Industries Ltd Vajra Granites Ltd RESTILE CERAMICS LTD. Deccan Granites Ltd Jaswal Granites Ltd MADHAV MARBLES & GRANITES LTD. Gee Gee Granites Ltd Associated Marmo & Granites Ltd CRB Corporation Ltd Philips Glass India Ltd (Merged) Haryana Sheet Glass Ltd Hindusthan National Glass & Industries Ltd HALDYN GLASS GUJARAT LTD. SARDA PLYWOOD INDUSTRIES LTD. Mangalam Timber Products Ltd Shreyans Industries Ltd KANOI PAPER & INDUSTRIES LTD. Star Paper Mills Ltd SHREE AMBESHWAR PAPER MILLS LT YASH PAPERS LTD Sarda Papers Ltd Soma Papers & Industries Ltd Arrow Coated Products Ltd Mukerian Papers Ltd Ador Technopack Ltd JUMBO BAG N R AGARWAL INDUSTRIES LTD SHREE RAJESHWARANAND PAPERMILL Saurashtra Paper & Board Mills Ltd WATSON SOFTW Pudumjee Agro Industries Ltd Sangal Papers Ltd Ventura Textiles Limited S.I.PAPER B K Duplex Board Ltd Birla Yamaha Ltd Vindhya Telelinks Ltd Ador Welding Ltd Ador Welding Ltd Punsumi India Ltd RPG Cables Ltd SALZER ELECTRONICS LTD JETKING INFOTRAIN LTD. APLAB LTD. PCS INDUSTRIES LTD. Moser Baer (India) Ltd Usha Martin Ltd Telephone Cables Ltd Zenith Computers Ltd Spel Semiconductor Ltd Subros Ltd
+
+MADSUDIND
+
+DECANGRAN JASWALGRAN
+
+CRBCORP CGGLASS HARYANSHET
+
+MANGTIMBER SHREYANIND STARPAPER
+
+MUKERPAPER
+
+SAURASTPPR PDUMJEAGRO
+
+BIRLAYAMAH VINDHYATEL ADVANIORLI ADORWELD PUNSUMI RPGTELECOM
+
+MOSERBAER USHABEL TELEPHNCAB ZENITHCOMP SPICELEC SUBROS
+
+515055 515059 515081 515085 515087 515089 515093 515097 515107 515113 515139 515143 515145 515147 516003 516007 516016 516020 516022 516028 516030 516032 516038 516064 516068 516076 516078 516082 516086 516088 516090 516092 516096 516098 516108 516112 517001 517015 517041 517041 517049 517056 517059 517063 517096 517119 517140 517146 517159 517164 517166 517168
+
+Tata Honeywell Ltd ORG Informatics Ltd. SWITCH.TECH. Bee Electronic Machines Ltd Lumax Industries Ltd HOTLINE TELE Onida Savak Ltd AKG Acoustics (India) Ltd Spice Net Ltd Yokogawa Blue Star Ltd B S Refrigerators Ltd SUJANA INDUS VIDEOCON COMMUNICATIONS LTD. PAE Ltd CALCOM VISIO Hindustan Powerplus Ltd BCC Fuba India Ltd BST Ltd INTEGRA HINDUSTAN CONTROL LTD. Precision Electronics Ltd FINE LINE CIRCUITS LTD Namtech Electronic Devices Ltd HBL NIFE POWER SYSTEMS LTD. S & S Power Switchgear Ltd VIJAY INDUSTRIES & PROJECTS LTD. Autopal Industries Ltd Gujarat Poly-Avx Electronics Ltd Phoenix Lamps India Ltd Gujarat Industries Power Co Ltd INDO ASIAN FUSEGEAR LTD. Standard Cables Ltd CMC Ltd Motherson Sumi Systems Ltd Modern Malleables Ltd MINTAGE ELECTRO EQUIPMENTS LTD. MINDTECK (INDIA) LTD. Havells India Ltd ACI Infocom Ltd Patels Widecom (India) Ltd Srishti Video Corp Ltd INCAP LTD. GUJARAT INTRUX LTD Opal Industries Ltd Electrex India Ltd Igarashi Motors India Ltd SYMPHONY COMFORT SYSTEMS LTD GAMMA INFO VINTRON INFORMATICS LTD. Pan Electronics (India) Ltd VXL Instruments Ltd TOYAMA ELECTRIC LTD Shyam Telecom Ltd
+
+TATAHONEY
+
+LUMAXIND ONIDASAVAK AKGACOUST MODIOLIVET YOKOGAWA BPLREFRIG
+
+PREMAUTOEL HINPOWPLUS BPLSANTECH
+
+NAMTECHELE S&SPOWER AUTOPALIND PHOENIXLMP GIPCL
+
+CMC MOTHERSUMI MODERNMAL
+
+HAVELLS PATWIDECOM SRISHTIVID
+
+ELECTRX CGIGARSH
+
+VXLINSTR SHYAMTELE
+
+517174 517195 517201 517203 517206 517208 517210 517212 517214 517216 517222 517224 517228 517230 517236 517244 517246 517248 517250 517258 517264 517269 517271 517273 517280 517286 517288 517296 517300 517318 517320 517326 517334 517336 517340 517344 517354 517356 517364 517366 517370 517372 517376 517378 517380 517385 517391 517393 517397 517399 517407 517411
+
+LEE & NEE SOFTWARES (EXP) LTD. GANDHIMATI APPLIANCES LTD. VJIL CONSULTING LTD. Dutron Polymers Ltd R S Software (India) Ltd MAGNA ELECTRO CASTINGS LTD TUDOR INDIA LTD. Linaks Microelectronics Ltd ODYSSEY VID MARSONS KTL INFOSYS LTD Datapro Information Technology Ltd ELNET TECHNOLOGIES LTD. Sumeet Machines Ltd TRANSMATIC RICOH INDIA LTD. WEBEL-SL ENERGY SYSTEMS LTD. ROTO PUMPS ICES Software Ltd TTK Prestige Ltd D&H WELDING ELECTRODES (I) LTD Datar Switchgear Ltd Lloyd Electric & Engineering Ltd RAJRATAN GUSTAV WOLF LTD. Surana Telecom Ltd Onward Technologies Ltd DIGITAL MULTIFORMS LTD. Solectron Centum Electronics Ltd ALFA TRANSFORMERS LTD. Starlite Components Ltd ADVANCED MICRONIC DEVICES LTD SSI Ltd Trigyn Technologies Ltd GR CABLES LTD ASHCO INDUSTRIES LTD. KEI INDUSTRIES LTD. IMP Power Ltd DMC Vaults Ltd Sri Vishnu Cement Ltd Gujarat Sidhee Cement Ltd Pan Asia Industries Ltd Somani Cement Company Ltd ANJANI PORTLAND CEMENTS LTD. SWASTIK ROOFING LTD. Anil Modi Oil Industries Ltd Alpine Industries Ltd Thapar Agro Mills Ltd SHAH FOOD(P) Godrej Foods Ltd Vippy Industries Ltd TASTY BITE EATABLES LTD. RITESH INTER
+
+RSSOFTWARE
+
+DATAPROINF SUMEETMACH
+
+INTCOMTECH TTKPRESTIG DATARSWICH LLOYDELENG SURANATELE ONWARDTEC SOLECTCENT
+
+SOFTSOLINT LEADEDSYS
+
+INDLMETER SRIVISHCEM GUJSIDHCEM PANASIAIND SOMANICEM
+
+ALPINEIND THAPARAGRO GFL
+
+517415 517421 517429 517437 517447 517449 517451 517463 517465 517467 517471 517473 517477 517479 517494 517496 517498 517500 517502 517506 517514 517516 517518 517522 517530 517536 517538 517544 517546 517548 517552 517556 517562 517564 517565 517569 517571 517973 518018 518029 518061 518071 518091 518111 519003 519012 519029 519031 519035 519039 519091 519097
+
+AVT NATURAL PRODUCTS LTD. Dharnendra Industries Ltd Nahar Industrial Enterprises Ltd Vegepro Foods & Feeds Ltd VADILAL ENTERPRISES LTD VADILAL INDUSTRIES LTD ROM Industries Ltd (Liquidated) NIJJER AGRO ADF Foods Ltd Innovative Marine Foods Ltd Williamson Financial Services Ltd AJANTA SOYA LTD Rank Industries Ltd Williamson Magor & Company Ltd Bishnauth Tea Company Ltd (Merged) Richirich Agro Ltd JUHN VANS Ready Foods Ltd SANWARIA AGRO OIL LTD. Madhur Food Products Ltd Agro Dutch Industries Ltd TARAI FOODS LTD MODERN DAIRIES LTD Balaji Foods & Feeds Ltd (Merged) BAMBINO AGRO Suvarna Aqua Farm & Exports Ltd Vikas Wsp Ltd MURLI AGRO PRODUCTS LTD. Pan Asia Global Ltd Poona Dal and Oil Industries Ltd Somkan Marine Foods Ltd Growmore Solvent Ltd (Merged) VIMAL OIL FD Meher Dairy Industries Ltd Madhya Pradesh Glychem Industries Ltd Eastern Overseas Ltd KSE LIMITED Virat Crane Industries Ltd CHORDIA FOOD TAI INDUST. Asian Independent Network Ltd N K Industries Ltd TRANS TECHNO BKV Industries Ltd Reil Products Ltd (Liquidated) Norben Tea & Exports Ltd ASIAN TEA & EXPORTS LTD. Indo French Biotech Enterprises Ltd Kengold (India) Ltd K J International Ltd Heritage Foods (India) Ltd SIMRAN FARMS
+
+DHARNENIND NAHARENTP VEGPROFOOD
+
+ROMIND AMERICADRY INOVATMARN
+
+RANKAQUA WILLAMAGOR BISHNATTEA
+
+READYFOOD MADHURFOOD AGRODUTCH
+
+BALAJIFOOD SUVARNAQUA VIKASWSP PANASIGLOB SOMKMARINE GROMORSOLV THAPARMILK MPGLYCEM EASTOVERSE
+
+NKIND
+
+REILPROD NORBTEAEXP INDOFREBIO KJINTL HERITGFOOD
+
+519105 519134 519136 519140 519152 519156 519166 519168 519183 519210 519214 519216 519218 519224 519226 519230 519248 519250 519260 519279 519281 519285 519287 519291 519295 519305 519307 519323 519325 519359 519369 519371 519373 519379 519383 519391 519421 519457 519475 519483 519485 519494 519496 519500 519524 519528 519532 519538 519546 519548 519552 519566
+
+LAKSHMI OVERSEAS INDUSTRIES DFM FOODS LTD CCL PRODUCTS (INDIA) LTD. CCL Products (India) Limited VMF Soft Tech Ltd Mahaan Foods Ltd VYBRA AUTO Rico Auto Industries Ltd Omax Autos Ltd Denso India Ltd J M A Industries Ltd Munjal Showa Ltd Jamna Auto Industries Ltd Sundaram Clayton Ltd Sona Koyo Steering Systems Ltd Munjal Auto Industries Ltd Lakshmi Auto Components Ltd GKN Driveline (India) Ltd Jay Bharat Maruti Ltd Jai Parabolic Springs Ltd RAUNAQ AUTO SAMKRG PISTONS AND RINGS LTD. Amtek Auto Ltd INDIA STEAMSHIP CO LTD East Coast Steel Ltd South India Corporation (Agencies) Ltd TVS Autolec Ltd RATNAMNI MET Vesuvius India Ltd Automotive Stampings & Assemblies Ltd Automotive Stampings & Assemblies Ltd Arcee Industries Ltd ABC INDIA LTD Balurghat Technologies Ltd JAGSON AIRLINES LTD. FAIRFIELD ATLAS LTD. CRC Carrier Ltd (Wound-up) Shreyas Shipping Ltd ABG Heavy Industries Ltd Eurotex Industries and Exports Ltd Indo Count Industries Ltd Maral Overseas Ltd SURYAJYOTI SPINNING MILLS LTD Nakoda Textile Industries Ltd Soma Textiles & Industries Ltd VANASTHALI TEXTILES INDUSTRIES Cheslind Textiles Ltd Abhishek Industries Ltd Hisar Spinning Mills Ltd Alok Industries Ltd Amit Spinning Industries Ltd Pasari Spinning Mills Ltd
+
+CCL
+
+RICOAUTO OMAXAUTO NIPPONDENS MUNJALSHOW JAMNAUTO SUNDRMCLAY SONASTEER MUNJALAUTO LAKSHAUTO INVELTRANS JAYBARMARU JAIPARBOLI
+
+AMTEKAUTO
+
+SICAL AUTOLEC VESUVIUS ASAL JBMT
+
+BALURTRANS
+
+CENTRLROAD SHREYASHIP ABGHEAVY EUROTEXIND INDOCOUNT MARALOVER NAKODATEX SOMATEX CHESLINTEX ABSHEKINDS ALOKTEXT AMITSPIN
+
+519570 519588 519600 519600 519602 519612 520003 520008 520021 520022 520026 520043 520051 520056 520057 520059 520061 520064 520066 520071 520073 520075 520077 520079 520081 520086 520101 520111 520113 520119 520119 520121 520123 520127 520139 520145 520147 520151 520155 521014 521016 521018 521022 521030 521034 521046 521056 521064 521068 521070 521076 521080
+
+Spentex Industries Ltd Viniyoga Clothex Ltd AMARJOTHI SPINNING MILLS LTD. Emtex Industries (India) Ltd Amrapali Spinning Mills Ltd Nagreeka Exports Ltd Suditi Industries Ltd Pearl Global Ltd D R Softech and Industries Ltd ANJANI FABRICS LTD Gem Spinners India Ltd Aditya Spinners Ltd Jersey India Ltd (Wound-up) Inertia Industries Ltd PRIME TEXTILES LTD DHANLAXMI FABRICS LTD PANTALOON IN SRI LAKSHMI SARASWATHI TEX. LTD. Zodiac Clothing Company Ltd ARORA FIBRES LTD. Gangotri Textiles Ltd SRI RAMKRISHNA MILLS (C) LTD Super Spinning Mills Ltd Seasons Furnishings Ltd Precot Mills Ltd United Textiles Ltd NEPC Textiles Ltd Sutlej Industries Ltd Leena Textiles Ltd Suryalakshmi Cotton Mills Ltd Samtex Fashions Ltd Atlantic Spinning & Weaving Mills Ltd DHANALAXMI ROTO SPINNERS LTD. DAMODAR THREADS LTD. La Mere Apparels Ltd UNIROYAL TEXTILE INDUSTRIES SRI NACHAMAI SRI GANAPATH SEQUEL E-ROUTERS LTD. SAMBANDAM SPINNING MILLS LTD KANDAGIRI SPINNNIG MILLS LTD Chitradurga Spintex Ltd Paras Petrofils Ltd Kitex Garments Ltd CRANEX LTD. BATLIBOI LTD Austin Engineering Company Ltd FLUIDOMAT EMA INDIA DGP Windsor India Ltd Shanthi Gears Ltd SM ENERGY TEKNIK & ELECTRONICS
+
+SPENTXIND VINYOGCLOT EMTEXIND NAGREKAEXP SUDITIND PEARLGLOBL DRIND GEMSPIN ADITYASPIN JERSY INERTIAIND
+
+ZODIACLOTH GANGOTEX SUPERSPIN PRECOTMILL NEPCTEX SUTLEJINDS LEENATEX SURYCOTMIL ATLANTSPG
+
+PARASPETRO
+
+DGPWINDSOR SHANTIGEAR
+
+521082 521088 521097 521099 521103 521109 521113 521123 521125 521131 521133 521141 521145 521147 521149 521151 521153 521161 521163 521174 521176 521178 521180 521182 521184 521188 521192 521194 521198 521200 521206 521208 521216 521220 521222 521226 521234 521236 521238 521240 521242 521244 521246 521248 522001 522004 522005 522017 522027 522029 522034 522042
+
+CHAMPAGNE INDAGE LTD. Honda Siel Power Products Ltd Hi-Tech Gears Ltd Elgi Equipments Ltd Vulcan Engineers Ltd STONE INDIA Sulzer India Ltd United Van Der Horst Ltd Wellman Incandescent India Ltd Kilburn Engineering Ltd BIRLA KENNA Yuken India Ltd Timken India Ltd Textool Company Ltd Porritts & Spencer (Asia) Ltd Heatshrink Technologies Ltd Vidiani Engineers Ltd Artson Engineering Ltd BHAGHEERATHA ENGINEERING LTD Gordon Herbert (India) Ltd Aditya Forge Ltd SOLITAIRE MACHINE TOOLS LTD. Solarson Industries Ltd DIAMOND CABLES LTD INDSIL ELECT SMELTS Flex Engineering Ltd Krishna Engineering Works Ltd SHIV VANI UNIVERSAL LTD. Precision Fastners Ltd (Wound-up) ITL INDUSTRIES LTD. KND Engineering Technologies Ltd BIL Industries Ltd Frontier Springs Ltd MONOZYME INDIA LTD Praj Industries Ltd RASANDIK ENGG INDUSTRIES (I) YOGI SUNGWON Gujarat Apollo Equipments Ltd HYDERFLEXTC Taneja Aerospace & Aviation Ltd CONART ENGINEERS LTD Jhaveri Weldflux Ltd Shivagrico Implements Ltd M M Forgings Ltd MAYUR UNIQUOTERS LTD CENLUB INDUSTRIES LTD RAJOO ENGINEERS LTD KALINDEE RAIL NIRMAN (ENG) LTD DOLPHIN OFFSHORE ENT. (I) LTD. JMC Projects (India) Ltd VEEJAY LAKSHMI ENGG. WORKS LTD. Ahmedabad Steelcraft Ltd
+
+SHRMHONDA HITECHGEAR ELGIEQUIP VULCANENG SULZER WELMANINCA KILBUNENGG YUKENINDIA TATATIMKEN TEXTOOL PORRITSPEN REPLENGINE VIDIANIENG ARTSONENGG GORDONHERB
+
+SOLARSNIND
+
+FLEXENGG KRISHNAENG PRECSNFAST KNDENGTECH BHUPENIND
+
+PRAJIND
+
+GUJAPOLEQP TANEJAERO
+
+MMFORGINGS
+
+JMCPROJECT
+
+522059 522064 522073 522074 522080 522085 522087 522091 522093 522101 522105 522108 522113 522116 522122 522130 522132 522134 522136 522148 522150 522152 522153 522163 522165 522167 522173 522175 522181 522183 522189 522193 522195 522199 522205 522207 522209 522217 522219 522229 522231 522233 522237 522241 522249 522251 522257 522259 522261 522263 522267 522273
+
+Alstom Ltd Satellite Engineering Ltd RAM RATNA WIRES LTD Jayaswals Neco Ltd Kalpataru Power Transmission Ltd Chandni Engineering Ltd T & I GLOBAL LTD. CONTROL PRINT (INDIA) LTD. ANSAL BUILDWELL LTD. Weizmann Ltd B N Rathi Securities Ltd Rishi Packers Ltd SINCLAIRS HOTELS & TRANSP LTD. SAFARI IND. Soundcraft Industries Ltd Motorol Enterprises Ltd Dewan Rubber Industries Ltd India Gypsum Ltd AEC (India) Ltd UNIVERSAL LUGGAGE MFG CO LTD COSMO FERRITES LTD. Futuristic Securities Ltd Sanco Trans Ltd Ador Multi Products Ltd EIH Associated Hotels Ltd Medi Caps Ltd Otco International Ltd Geekay Exim (India) Ltd GREAVES MORGANITE CRUCIBLE LTD. SIP INDUSTRIES LIMITED Indian Seamless Financial Services Ltd (Merged) Classic Diamonds (India) Ltd Aban Loyd Chiles Offshore Ltd CAMLIN LTD. NICCO UCO ALLIANCE CREDIT LTD. Kilburn Office Automation Ltd M C S LTD. BHARAT SEATS LTD Jalpac India Ltd Shrenuj & Company Ltd Chokhani International Ltd MACHINO PLASTICS LTD. Dewan Tyres Ltd CASIL HEALTH PRODUCTS LTD Pearl Polymers Ltd Venkys (India) Ltd Advani Hotels & Resorts (India) Ltd G.V.FILMS LTD. SUPERHOUSE LEATHERS LTD. Rama Vision Ltd Suman Motels Ltd Rockwool (India) Ltd
+
+GECALSTHOM
+
+NAGPURENG KALPATPOWR
+
+WEIZMANIND RISHIPACK
+
+SOUNDCRAFT RINKIPETRO DEWANRUB INDGYPSUM AEC
+
+OBERHOTEL MEDICAPS GEEKAYEXIM
+
+INDSEAMFIN CLASSIC ABANLLOYD
+
+SHRENUJ CHOKAINTL DEWANTYRE PEARLPOLY WESTHATCH RAMADHOTEL
+
+RAMAVISION SUMANMOTEL
+
+522275 522279 522281 522285 522287 522292 522294 522295 523007 523011 523019 523021 523023 523025 523033 523049 523051 523066 523080 523094 523100 523113 523116 523120 523127 523144 523151 523153 523160 523164 523167 523200 523204 523207 523209 523218 523221 523229 523230 523236 523246 523248 523252 523254 523260 523261 523269 523277 523283 523289 523295 523299
+
+21ST CENTURY PRINT LTD Bestavision Electronics Ltd INDO MATSUSHITA APPLIANCES LTD. Balmer Lawrie & Company Ltd KOVAI MEDI. Ginni Filaments Ltd POLAR PHARMA INDIA LTD Rajinder Pipes Ltd Agritech Hatcheries & Foods Ltd Sterling Holiday Resorts (India) Ltd DCM Shriram Consolidated Ltd DCM Shriram Industries Ltd Siel Ltd Maha Rashtra Apex Corporation Ltd Nilkamal Plastics Ltd TRITON CORP. LTD. Oxides & Specialities Ltd Nahar Exports Ltd 3M India Ltd 3M INDIA LTD Hitachi Home & Life Solutions (I) Ltd J M Share & Stock Brokers Ltd Lan Eseda Industries Ltd Krone Communications Ltd HMG Industries Ltd Coventry Coil-O-Matic (Haryana) Ltd Tamil Nadu Telecommunications Ltd SUNRAJ DIAM. B S Appliances Ltd Vikram Projects Ltd (Wound-up) Reliance Industrial Infrastructure Ltd Alsa Marine & Harvests Ltd Kalyani Sharp India Ltd TECHTRN POLY BOC India Ltd Electrolux Kelvinator Ltd IND.BANK HSG Jai Mata Glass Ltd LOTUS CHOC Gujarat Gas Company Ltd Pacific Industries Ltd DEVAKI HOSP. Lunar Diamonds Ltd HCL OFFICE Rainbow Papers Ltd Avon Industries Ltd APM IND Precision Wires India Ltd Monica Electronics Ltd KRYPTON INDUSTRIES LTD. S & S Industries & Enterprises Ltd Network Ltd
+
+BESTAVISON BALMLAWRIE GINNIFILA RAJINPIPE AGRIHATCH STERLINHOL DCMSRMCONS DCMSRMIND SIEL MAHAPEXLTD NILKAMPLST HERDIOXIDE NAHAREXP BIRLA3M 3MINDIA AMTREXAPPL JMSHARE LANESEDA KRONECOMM HMGIND TNTELE BPLSANUTIL VIKRAMPROJ RIIL ALSAMARINE KALYANISHP IOL MAHAINTL
+
+GUJRATGAS PACIFICIND LUNARDIAM RAINBOWPPR AVONIND PRECWIRE MONICAELEC S&SIND NETWORK
+
+523301 523303 523307 523319 523323 523325 523333 523341 523361 523363 523367 523369 523371 523384 523385 523387 523389 523391 523395 523395 523398 523405 523407 523411 523413 523415 523419 523425 523429 523441 523445 523447 523449 523455 523457 523461 523465 523467 523475 523477 523483 523489 523491 523519 523523 523531 523537 523539 523544 523550 523554 523558
+
+MORGAN IND Pantaloon Retail (India) Ltd FLAWLESS DIAMONDS (I) LTD Murablack India Ltd (Wound-up) INDIAN TONERS & DEVELOPERS LTD Jenson & Nicholson (India) Ltd KUNSTSTOFFE Shipping Corporation of India Ltd Sika Interplant Systems Ltd ITI Ltd DREDG CORP I Bells Controls Ltd Wearology Ltd NATIONAL FER UNIPORT COMPUTERS LTD. Vashisti Detergents Ltd IP Rings Ltd P I Industries Ltd PLASTIBLENDS INDIA LTD RISHIROOP RUBBER (INTER) LTD Waterbase Ltd NOIDA MEDI FLEX FOODS LTD. GOLKUNDA DIAMONDS JEWELLERY LTD. BTW Industries Ltd M S Shoes East Ltd Apcotex Lattices Ltd MALAR HOSPITALS LTD. Midland Plastics Ltd Mastek Ltd Eimco Elecon (India) Ltd Sayaji Hotels Ltd Irplast Adhesive India Ltd ASHIANA HSG & FINANCE (I) LTD SVAM SOFTWARE LTD. Vijay Shanthi Builders Ltd Siddhartha Tubes Ltd Ecoboard Industries Ltd DHUNSERI TEA & INDUSTRIES LTD. Spice Systems Ltd EPC Industrie Ltd SREI International Finance Ltd Information Technologies (I) Ltd Iccon Oil & Specialities Ltd Gujarat Borosil Ltd ICNET Ltd RAS Extrusions Ltd Shukra Jewellery Ltd MAZDA LTD Global Infrastructure & Technologies Ltd VICEROY HOTELS LTD GOM Industries Ltd
+
+PANTALOONR MURABLACK JENSONICOL SCI ITI BELCONTROL
+
+TATAVASHIS IPRINGS PINDLTD
+
+WATERBASE
+
+BTWIND MSSHOES APCOTEXLAT
+
+MASTEK EIMCOELECO SAYAJHOTEL
+
+SIDDHATUBE WESTERNBIO
+
+SREINTFIN ITIL GUJBOROSIL
+
+SHUKRADIAM MANTRIHSG
+
+523564 523574 523576 523578 523586 523592 523594 523598 523606 523610 523618 523626 523628 523630 523632 523634 523638 523642 523648 523658 523660 523670 523672 523676 523682 523692 523694 523696 523698 523704 523708 523710 523712 523716 523722 523724 523728 523732 523736 523752 523754 523756 523758 523766 523768 523770 523780 523790 523792 523794 523796 523802
+
+J F Laboratories Ltd Bhor Industries Ltd Gujarat Incatel Telecommunications Ltd Neo Sack Ltd Sovereign Diamonds Ltd MENON BEARINGS LTD Mukat Pipes Ltd Gujarat Raffia Industries Ltd Simplex Concrete Piles (India) Ltd SUPER TANNERY LTD INNOVATIVE MEDI EQUIPMENT LTD. Skypak Services Specialist Ltd Axtel Industries Ltd Torrent Gujarat Biotech Ltd DSQ Software Ltd Vasparr Fischer Ltd Jyoti Overseas Ltd Hindustan Inks & Resins Ltd D S Kulkarni Developers Ltd Dataline & Research Technogies (I) Ltd Magma Leasing Ltd HYDRO S&S INDUSTRIES LTD. Rama Phosphates Ltd Venlon Polyester Film Ltd Polyplex Corporation Ltd ALBERT DAVID LTD HAR LEATHER Monsanto India Ltd Acrysil Ltd Ondeo Nalco India Ltd Linear Industries Ltd Kabra Extrusion Technik Ltd Pharmaceutical Products of India Ltd Vinyl Chemicals (I) Ltd PEE CEE COSMA SOPE LTD SIRO PLAST Cheminor Drugs Ltd (Merged) TCM Ltd SMZS Chemicals Ltd Pfimex Pharmaceuticals Ltd INDUSTRIAL ORGANICS LTD. Titanor Components Ltd DSQ Biotech Ltd KESAR PETROPRODUCTS LTD GULSHAN SUGARS & CHEMICALS LTD. ROCK HARD PETRO IND LTD. VINATI ORGANICS LTD Aarti Industries Ltd PEARL ORGANICS LTD. ARMOUR POLYMERS LTD. Gujarat Ambuja Exports Ltd Rashtriya Chemicals & Fertilizers Ltd
+
+JFLABS BHORIND NEOSACK
+
+MUKATPIPE GUJRAFFIA SIMPLEXCON
+
+TORRENGUJ SQRDSFWARE
+
+HINDINKS DSKULKARNI DARTLTD MAGMA RAMAPHOSP VENLONPOLY POLYPLEX
+
+MONSANTO NALCOCHEM KABRAEXTRU PPIL VINYLCHEM
+
+CHEMNODRUG SMZSCHEM PFIMXPHARM TITANOCOMP SQUAREDBIO
+
+AARTIIND
+
+GAEL RCF
+
+523804 523808 523810 523820 523826 523828 523832 523836 523838 523842 523844 523846 523850 523856 523864 523874 523876 523886 523890 523998 524000 524019 524037 524038 524051 524075 524080 524084 524091 524101 524103 524109 524113 524129 524136 524138 524140 524156 524160 524162 524164 524168 524170 524174 524184 524194 524200 524208 524212 524218 524226 524230
+
+Gujarat Inject (Kerala) Ltd Fertilizers & Chemicals Travancore Ltd Daurala Organics Ltd CONSOLIDATED FIBRES & CHEM. LTD. HERDILLIA UNIMERS LTD DUJODWALA PAPER CHEMICALS LTD Kopran Ltd Wockhardt Healthcare Ltd (Merged) AIMCO Pesticides Ltd VYSALI PHARM VBC INDUSTRIES LTD Sriman Organic Chemical Industries Ltd Jayant Agro Organics Ltd Bhatinda Chemicals Ltd Shree Hari Chemicals Export Ltd INDO BORAX Aarti Drugs Ltd SHINE-HO-PET Orchid Chemicals & Pharmaceuticals Ltd EPIC ENZYME PHARMA & INDL CHEM Uma Petroproducts India Ltd OMNI DYE-CHM Crazy Infotech Ltd VIMTA LABORATORIES LTD. Biofil Chemicals & Pharmaceuticals Ltd ISHITA DRUGS INDUSTRIES LTD Maruti Organics Ltd TASC Pharmaceuticals Ltd Universal Starch Chem Allied Ltd Sree Rayalaseema Hi Strength Hypo Ltd Sree Rayalaseema Hi-Strength Hypo Ltd CDR Medical Inds Ltd Camex Intermediates Ltd Sabero Organics Gujarat Ltd Ahlcon Parenterals (India) Ltd Sunstar Lubricants Ltd Paam Drugs & Pharmaceuticals Ltd Chemox Laboratories Ltd SYNCOM FORMULATIONS (I) LTD Zillion Pharmachem Ltd RIDDHI SIDDHI GLOCO BIOLS LTD Stilbene Chemicals Ltd SVC Superchem Ltd Ipca Laboratories Ltd KILITCH DRUG CORAL LABORATORIES LTD Bacil Pharma Ltd Krebs Biochemicals Ltd LAFFANS PETROCHEMICALS LTD Velvette International Pharma Products Ltd Earnest Healthcare Ltd Sun Star Chemicals Ltd
+
+FACT DAURALAORG
+
+KOPRAN RRMEDIPHAR AIMCOPEST
+
+SRIMANORG JAYAGROGN
+
+AARTIDRUGS ORCHIDCHEM
+
+BIOFILCHEM MARUTIORNG TASCPHARMA SRERAYHY+H SRERAYHIST CDRMEDICAL SABERORGAN SUNSTARLUB PAAMDRUG BENTOLCHEM ZILONPHARM STILBENCHM ATVPETRO IPCALAB
+
+KREBSBIO
+
+EARNHEALTH SUNSTRCHEM
+
+524238 524244 524256 524260 524264 524276 524280 524286 524288 524290 524310 524324 524330 524332 524336 524342 524348 524364 524372 524374 524378 524384 524388 524394 524396 524400 524402 524404 524408 524410 524410 524418 524440 524446 524448 524452 524462 524464 524470 524476 524480 524486 524488 524494 524500 524506 524516 524518 524522 524528 524532 524536
+
+Allied Resins & Chemicals Ltd SUKJIT STRCH Shasun Chemicals & Drugs Ltd Neuland Laboratories Ltd Dynachem Pharmaceuticals (Export) Ltd Poddar Pigments Ltd PHARMAIDS PHARMACEUTICALS LTD. Vivid Chemicals Ltd Priya Ltd Jaysynth Dyechem Ltd Ashok Alco-Chem Ltd AksharChem (India) Ltd FCL Technologies & Products Ltd FEM CARE PHARMA LTD RATHI GRAPH. INDIAN EXTRACTIONS LTD GAGAN GASES PARKER AGROCHEM EXPORTS LTD ALUFLUORIDE LTD S S ORGANICS Vitara Chemicals Ltd INDO AMINES LTD. Narmada Chematur Petrochemicals Ltd IND SWIFT LTD. Ind-Swift Limited NATURAL CAPSULES LTD BHARAT IMMUNO & BIO CORPN LTD Savita Chemicals Ltd HESTER PHARM Metrochem Industries Ltd BASANT AGRO TECH (INDIA) LTD PARENT.DRUGS KILBURN CHEMICALS LTD Kedia Chemical Industries Ltd SANDU PHARMACEUTICALS LTD Cochin Refineries Balmer Lawrie Ltd (Merged) NAGARJUNA AGRICHEM LTD. VISTA PHARMA Sun Pharmaceuticals Industries Ltd TITAN BIO-TECH LTD. TANU HEALTHCARE LTD. BHUVAN TRIPU SPAN DIAGNOSTIC LTD. JENBURKT PHARMACEUTICALS LTD. Hikal Ltd Caplin Point Laboratories Ltd Siris Ltd LINK PHARMA CHEM LTD WINTAC LTD ARVIND INTERNATIONAL LTD Nutraplus Products (India) Ltd EMMESSAR BIOTECH & NUTRITION LTD.
+
+ALLIEDRES SHASUNCHEM NEULANDLAB DYNAPHARMA PODARPIGMT
+
+PRIYADYES JAYSYNTDYE ASHOKALCO FLEXCHEM
+
+VITARACHEM NARMDCHEMA INDSWFTLTD
+
+SAVITACHEM METROCHEM
+
+COREFBAMLA
+
+SUNPHARMA
+
+HIKAL SIRIS
+
+524538 524542 524552 524558 524562 524570 524572 524576 524580 524592 524594 524598 524600 524608 524610 524614 524624 524628 524634 524636 524646 524648 524650 524652 524652 524654 524663 524667 524669 524683 524687 524689 524699 524701 524703 524707 524709 524711 524715 524717 524719 524725 524727 524731 524735 524742 524746 524748 524758 524760 524764 524768
+
+NGL FINE-CHEM LTD FINE DRUGS & CHEMICALS LTD SUPRIYA PHAR Elder Project Ltd MATRIX LABS Matrix Laboratories Limited Vardhaman Laboratories Ltd VERONICA LABORATORIES LTD. Aurobindo Pharma Ltd PHYTOCHEM I. Cepham Milk Specialities Ltd Natco Pharma Ltd DYNAMIC INDUSTRIES LTD PANAMA PETRO BAL PHARMA LTD. Jupiter Bios BDH Industries Ltd ELDER HEALTH CARE LTD PROCAL ELECTRONICS (I) LTD. KEMROCK IND Cubex Tubings Ltd Sonal Cosmetics (Exports) Ltd CRYSTAL SOFT Polymechplast Machines Ltd Luminaire Technologies Ltd SRIVATSA IN K R M International Ltd Namaste Exports Ltd ACE Laboratories Ltd Roofit Industries Ltd Sathavahana Ispat Ltd Premier Instruments & Controls Ltd Uniroyal Marine Exports Ltd KARAN WOO SIN LTD SHERVANI IND Renco Gears Ltd SUPERTEX IND Shetron Ltd TRANSGENE BI Compact Disc India Ltd Milton Plastics Ltd NIKHIL ADHESIVES LTD Spenta International Ltd IGGI Resorts International Ltd SYNERGY MULT Viral Syntex Ltd Andrew Yule & Company Ltd ADAM COMSOF LTD. AEKTA LTD TRIMBAK INDUSTRIES LTD Ashram Online.com Ltd Royal Cushion Vinyl Products Ltd
+
+MATRIXLABS
+
+AUROPHARMA CEPHAMILK NATCOPHARM
+
+MBIND
+
+CUBEXTUB SONALCOSM
+
+STRAUSIND
+
+NAMASTEXP ACELAB ROOFITIND SATHVANISP PREMINSTR
+
+RENCOGEAR SHETRON COMPACDISC MILTONPLAS
+
+IGGIRESORT VIRALSYNTX ANDREWYULE
+
+TATIASKYLN ROYALCUSHN
+
+524774 524782 524784 524788 524794 524794 524796 524802 524804 524808 524810 524816 524818 524820 524824 524826 524828 524830 526009 526015 526027 526029 526033 526043 526045 526049 526055 526059 526077 526089 526093 526109 526113 526115 526117 526129 526133 526137 526139 526141 526143 526159 526161 526165 526169 526171 526173 526177 526179 526185 526187 526193
+
+Neogem India Ltd K S OIL Pennar Paterson Ltd HI TECH PLAST COTAINERS LTD. BLOOM DEKOR LTD FILATEX INDIA LTD. Jayanti Business Machines Ltd (Wound-up) MERCATOR LINES LTD DOOGAR & ASSOCIATES LTD Amrapali Industries Ltd PREMIER EXPLOSIVES LTD. Darshan Oils Ltd Mid East Portfolio Management Ltd Mold-Tek Technologies Ltd Denmur Fax Roll Ltd DIVYA JYOTI INDUSTRIES LTD. Varun Seacon Ltd MPhasis BFL Ltd Mphasis BFL Limited Hind Industries Ltd IIT CAPITAL Divyashakti Granites Ltd Orient Press Ltd PANJON LTD. Shyam Star Gems Ltd Ganesh Housing Corporation Ltd NAT MINERAL Cindrella Hotels Ltd Konkan Tyres Ltd PATEL ROAD. NEELKANT MOT ALPHAGEO (I) LTD RITESH INDUS KALPANA INDUSTRIES LTD. Pandian Graphites (India) Ltd KRITI INDUSTRIES (INDIA) LTD ASM TECHNOLOGIES LTD. Ambitious Plastomac Company Ltd INDRAYANI BI Vidiani Agrotech Industries Ltd U G Hotels and Resorts Ltd Raghav Industries Ltd EURO LEDAR F Elegant Floriculture & Agrotech (India) Ltd South Asian Enterprises Ltd SKY INDUSTRIES LTD Phoenix International Ltd Hitechi Jewellery Industries Ltd PRATIK PANELS LTD Puneet Resins Ltd RUBBER PRODUCTS LTD ZENERGY LTD
+
+PENAPATSEC
+
+JAYBUSMAC
+
+MOLDPLAST DENMURFAX VARUNSEA BFLSOFTWAR MPHASISBFL HINDIND
+
+ORIENTPRES
+
+GANHSGFIN
+
+PANDGRAPH
+
+VIDANIAGRO
+
+PHOENXINTL HITECHIJEW
+
+526195 526209 526213 526217 526225 526227 526229 526235 526237 526241 526247 526249 526251 526263 526273 526285 526297 526299 526299 526307 526313 526315 526325 526345 526365 526367 526371 526373 526379 526381 526391 526397 526407 526409 526413 526423 526433 526439 526445 526453 526463 526465 526468 526473 526477 526479 526481 526486 526490 526492 526496 526498
+
+DOLPHIN MEDICAL SERVICES LTD. Systematix Corporate Services Ltd SHAHI SHIPPING LTD. Shakti Met-dor Ltd Interlink Petroleum Ltd Sanghi Industries Ltd WORLDWIDE LEATHER EXPORTS LTD. Inox Air Products Ltd MAXIMAA SYSTEMS LTD. Scanpoint Graphics Ltd CHOKSI LABORATORIES LTD. Avery India Ltd English Indian Clays Ltd Pearl Engineering Polymers Ltd Nath Seeds Ltd Champdany Industries Ltd TAINWALA POL Wim Plast Ltd PHOTOQUIP INDIA LTD. Liberty Shoes Ltd PATEL ON-BOARD COURIERS LTD LIPPI SYSTEM Electrotherm (India) Ltd VANS INFORMATION LTD. Blue Dart Express Ltd EXPO GAS CON NATIONAL PLASTIC INDUSTRIES MY FAIR LADY LTD. Elbee Services Ltd Ajwa Fun World & Resort Ltd MPL Corporation Ltd ROYALE MANOR Mirza Tanners Ltd Tata Advanced Material Ltd Tourism Finance Corporation of India Ltd Cals Ltd Thakkers Developers Ltd Nava Bharat Enterprises Ltd Rajdarshan Industries Ltd Bhartiya International Ltd Kamat Hotels (India) Ltd DSJ Communication Ltd Galore Prints Industries Ltd Sai Service Station Ltd Hotel Rugby Ltd Polo Hotels Ltd FENOPLAS.LTD ECOPLAST LTD ELEGANT MARB TOUBRO INFOTECH & INDUSTRIES LTD. BITS LTD. Adarsh Plant Protect Ltd
+
+SANGHIIND INDOXYGEN
+
+AVERY PEPL NATHSEEDS CHAMPDANY WIMPLAST LIBERTSHOE
+
+ELECTHERM BLUEDART
+
+ELBEE MARNITPOLY MIRZATAN TATADVMATL TFCILTD
+
+NAVBHARENT ARENTERP BIL KAMATHOTEL DALALSTCOM SAISERVICE HOTELRUGBY
+
+526504 526506 526508 526510 526512 526521 526525 526534 526538 526544 526546 526556 526560 526562 526576 526580 526582 526586 526588 526596 526602 526604 526608 526610 526612 526614 526616 526622 526624 526628 526632 526640 526642 526646 526650 526652 526654 526656 526662 526666 526668 526677 526679 526681 526683 526687 526689 526703 526705 526707 526709 526711
+
+Antarctica Ltd GOPALA POLY. NICCO PARKS & RESORTS LTD RDB INDUSTRIES LTD Sandesh Ltd GARNET CONSTRUCTION LTD. GOLDIAM INTE Bright Brothers Ltd Suashish Diamonds Ltd Narmada Gelatines Ltd PG FOILS LTD. Gratex Industries Ltd ROSELABS LTD Velan Hotels Ltd Ganapati Exports Ltd (Wound-up) Howard Hotels Ltd PRESSURE SENSITIVE SYSTEMS (I) VALIANT COMMUNICATIONS LTD. HINAFIL INDIA LTD DR AGRAWALS EYE HOSPITAL LTD Crest Communication Ltd Greenply Industries Ltd Greenply Industries Ltd PSL Ltd PSL Ltd South East Asia Marine Engg & Construction Ltd RAGHUNATH INTERNATIONAL LTD CHEVIOT COMPANY LTD Dai-ichi Karkaria Ltd Rajeswari Graphics Ltd Samtel Electron Devices Ltd (Merged) SPICE ISLAND Devarsa Gas-Chem Ltd SILKTEX LTD CCAP LTD. Shakti Press Ltd Ashirwad Steels & Industries Ltd Banaras Beads Ltd BILCARE LTD. Majestic Industries Ltd RISHI LASER Jainco Projects (India) Ltd UT LTD. FINANC TECHN SARLA POLYSTER LTD Market Creators Ltd SRINIVASA HA HIMALAYA INT Capital Hotels & Developers Ltd Twenty First Century Management Services Ltd Ashok Organic Industries Ltd Fortis Financial Services Ltd
+
+ANTGRAPHIC
+
+SANDESH
+
+BRIGHTBROS SUASHDIMON SHAWGELTIN
+
+GANAPATEXP
+
+CRESTCOMM MITTALLAMI GREENPLY PSL PSLHOLD SEAMECLTD
+
+DAICHIKARK SAMELECDEV
+
+BANARBEADS MAJESTIND
+
+21STCENMGM ASHOKORG FORTISFIN
+
+526715 526717 526721 526723 526725 526727 526729 526731 526733 526739 526747 526751 526753 526755 526757 526761 526773 526775 526779 526783 526785 526797 526797 526801 526801 526807 526813 526817 526821 526823 526825 526827 526829 526835 526839 526841 526847 526849 526853 526857 526861 526865 526879 526881 526885 526891 526893 526899 526917 526921 526923 526927
+
+Hariyana Ship Breakers Ltd M B Parikh Finstock Ltd TYROON TEA COMPANY LTD LA-OPALA RG Gujarat Optical Communication Ltd GOLDEN LAMIN VENUS REMEDI ABL BIO-TECHNOLOGIES LTD. Dhoot Industrial Finance Ltd Commitment Capital Services Ltd Atlas Copco (India) Ltd Ashapura Minechem Ltd SHREE PACETRONIX LTD. Atcom Technologies Ltd Atcom Technologies Ltd Gujarat Alkalies & Chemicals Ltd India Cements Ltd J K Industries Ltd J K INDUSTRIES LTD MANG CHE FER Standard Industries Ltd Standard Industries Limited Jubilant Organosys Ltd Jubilant Organosys Ltd Fortune Financial Services (India) Ltd Santosh Fine Fab Ltd Acknit Knitting Ltd Titan Securities Ltd Rai Saheb Rekhchand Mohota Spg.& Wvg. Mills Ltd JJ EXPORTERS LTD. Hillock Agro Foods (India) Ltd MAHARAJA SHR Yashraj Containeurs Ltd Proto Infosys Ltd PARSOLI CORP SANGHVI MOVERS LTD SELAN EXPLORATION TECHNOLOGY LTD. Freshtrop Fruits Ltd Faze Three Ltd OVERSEAS CAPITAL LTD. Ace India Ltd Bhagwandas Metals Ltd RAJ PACKAGIN H.K FINECHEM LTD. Natraj Proteins Ltd SAMRAT PHARM NPR FINANCE LTD NILE LTD J K Udaipur Udyog Ltd AMCO INDIA LTD. Akanksha Finvest Ltd KISAN MOULDINGS LTD.
+
+GUJOPTICAL
+
+ATLASCOPCO ASHAPURMIN ATCOIND ATCOM GUJALKALI INDIACEM JKIND JKINDUSTRY STDIND SIL JUBILANT VAMORGANIC
+
+RAIREKMOH
+
+FAZETHREE
+
+JKUDYOG
+
+526931 526935 526945 526947 526949 526951 526953 526955 526971 526987 526991 527001 527005 527007 527007 530001 530005 530007 530007 530011 530017 530017 530019 530019 530023 530035 530043 530045 530047 530049 530053 530059 530063 530069 530071 530073 530075 530077 530079 530091 530093 530095 530111 530117 530119 530125 530127 530129 530131 530133 530135 530145
+
+KSL & Industries Ltd Vijay Textiles Ltd TONIRA PHARM KERELA AYURVEDA PHARMACY LTD Kanchan International Ltd MOHIT PAPER MILLS LTD. OSCAR GLOBAL ODYSSEY TECHNOLOGIES LTD SPS International Ltd SURAT TEXTILE MILLS LTD. CHROMATIC INDIA LTD. INTER.DIAMON THEMIS MEDICARE LTD. Kallam Spinning Mills Ltd BRAWN PHARMA AURO LABORATORIES LTD KJMC Financial Services Ltd Suven Life Sciences Ltd MANGALYA SOF Aryaman Financial Services Ltd Bridge Securities Ltd Rajasthan Tube Manufacturing Co Ltd Kay Pulp & Paper Mills Ltd MIDAS PHARMA Inter State Oil Carriers Ltd GLOBAL CAPITAL MARKETS LTD. Securities Capital Investments (I) Ltd Rich Capital & Financial Services Ltd LIBERTY PHOSPHATE LTD RAJ AGRO MIL Wilwayfort India Ltd Kothari Products Ltd IFB Venture Capital Finance Ltd PICCADILY AGRO INDUSTRIES LTD CHAMAN LAL SETIA EXPORTS LTD. Chandra Prabhu International Ltd Hindustan Tin Works Ltd GODAVARI DRUGS LTD. Unimin India Ltd ERA CONSTRUCTIONS (INDIA) LTD Mukunda Industrial Finance Ltd Premco Global Ltd Labh Construction and Industries Ltd Mukesh Babu Financial Services Ltd GENUS OVERSEAS ELECTRONICS LTD Magnum Ltd ASIAN OILFIE UGAR SUGAR WORKS LTD ORIENT CERAM NRB Bearings Ltd VAMSHI RUBB. Ancent Software International Ltd
+
+KJMCFIN SUVEN
+
+KOTHARIPRO IFBVENTUR
+
+HINDTINWRK UNIMIN
+
+LABHCONST
+
+NRBBEARING
+
+530149 530151 530155 530163 530165 530169 530173 530175 530177 530185 530191 530193 530199 530201 530207 530233 530235 530239 530243 530245 530249 530253 530255 530257 530259 530263 530269 530271 530273 530291 530293 530299 530301 530305 530307 530309 530315 530317 530321 530323 530329 530331 530339 530341 530343 530347 530355 530363 530365 530367 530369 530375
+
+Nila Infrastructures Ltd Petron Engineering Construction Ltd European Software Alliances Ltd Dot Com Global Ltd DB (International) Stock Brokers Ltd K DHANDAPANI Jindal Capital Ltd Epic Energy Ltd Eupharma Laboratories Ltd Bayer Cropscience India Ltd Sumedha Fiscal Services Ltd SELVAS PHOTOGRAPHICS LTD Ashish Polyplast Ltd ADOR FONTECH LTD. Shiva Fertilizers Ltd Media Video Ltd IFB SECURITIES LTD. Sumeru Leasing and Finance Ltd CINERAD COMMUNICATIONS LTD. VALSON INDUSTRIES LTD. Gujarat Cypromet Ltd GSL Securities Ltd Balaji Hotels & Enterprises Ltd Vikram Thermo (India) Ltd SOUTHERN IRON & STEEL CO LTD Upper Ganges Sugar & Industries Ltd Relaxo Footwears Ltd Interface Financial Services Ltd Virat Industries Ltd COSCO (India) Ltd Shilpa Medicare Ltd MONALISA INFOTECH LTD. PARAMOUNT COMMUNICATIONS LTD. Archana Software Ltd Trinity Bio-Tech Ltd. Ladderup Finance Ltd Golden Securities Ltd Vogue Textiles Ltd SWASTIK FIN. PRIMA PLASTICS LTD Victory Projects Ltd GMS Computers (India) Ltd Jagsonpal Finance & Leasing Ltd Nova Petrochemicals Ltd CARNATION IN Sturdy Polymers Ltd Garg Furnace Ltd SAMPRE NUTRITIONS LTD. Asian CERC Information Technology Ltd Akar Tools Ltd VIPUL DYE CH Rose Zinc Ltd
+
+PETRONENGG EUROSOFTAL PERCIMDIAM
+
+EUPHARMLAB AGREVOIND
+
+MEDIAVIDEO
+
+GUJCYPROM BALAJHOTEL
+
+UPERGANGES RELAXOFOOT
+
+SSLFINANCE
+
+GMSIND NOVAPETRO
+
+530377 530381 530387 530391 530393 530395 530405 530407 530409 530415 530419 530427 530429 530431 530433 530435 530439 530445 530457 530459 530467 530469 530471 530477 530491 530505 530517 530519 530521 530545 530549 530551 530555 530565 530573 530577 530579 530583 530585 530589 530595 530599 530601 530605 530609 530611 530615 530617 530619 530621 530627 530631
+
+HITKARI IND. Shri Niranjan Ayurved Bhavan Ltd INFOTREK SYS GOYAL ASSOCIATES LTD. ZENITH HEALTH CARE LTD. White House Cotton Industries Ltd Supreme Holdings Ltd ANKUJ ZINC-O PRIME PROP RAJ RAYON LTD. Info-Drive Software Ltd Aftek Infosys Ltd JAGAN LAMPS LTD. Choksh Infotech Ltd Alps Industries Ltd IKF FINANCE LTD. ANG EXPORTS LTD Nucleus Securities Ltd Scintilla Software Technology Ltd Super Bakers (India) Ltd GEI HAMON INDUSTRIES LTD. L N Polyesters Ltd INDO ASIAN FINANCE LTD. Coral Newsprints Ltd Sterling Tools Ltd Devki Leasing & Finance Ltd VEL Software Ltd IVRCL Infrastructures & Projects Ltd Infra Industries Ltd Pitambar Coated Papers Ltd Ceejay Finance Ltd BHAGERIA DYE-CHEM LTD BNR Udyog Ltd Netvista Information Technology Ltd KRBL Ltd REFNOL RESINS & CHEMICALS LTD Xedd Telecom Ltd Srinivasa Shipping & Property Development Ltd Daikaffil Chemicals India Ltd Cil Securities Ltd Abee Info-Consumables Ltd ELTROL LTD. CLIO INFOTECH LTD. Bholanath International Ltd CUPID RUBBERS LTD Sunshield Chemicals Ltd HIPOLIN LTD Cosboard Industries Ltd FIN.EYES(I) Suryanagri Finlease Ltd CHEMBOND CHEMICALS LTD ALKA SPINNERS LTD.
+
+AFTEKINFO
+
+ALPSINDUS
+
+SCINTSOFT
+
+STERTOOLS
+
+IVRCLINFRA
+
+NETVISTAIT KRBL XEDDTELCOM
+
+530633 530641 530643 530663 530665 530667 530677 530693 530695 530699 530703 530707 530711 530713 530715 530719 530721 530723 530729 530735 530743 530745 530747 530755 530759 530765 530769 530773 530777 530785 530789 530803 530809 530811 530813 530815 530819 530821 530825 530829 530833 530835 530839 530841 530843 530845 530853 530859 530863 530867 530871 530889
+
+Bhandari Udhyog Ltd NG INDUSTRIES LTD Remsons Industries Ltd Ramsons Projects Ltd Stanpacks (India) Ltd Sri Adhikari Brothers Television Network Ltd Dhar Textile Mills Ltd RAM INFORMATICS LTD. Sunil Agro Foods Ltd KAILASH FICOM LTD. Diana Tea Company Ltd Indian Oil Corporation Ltd ALFA ICA (INDIA) LTD KATWA UDYOG LTD. Manoj Housing Finance Co Ltd JPT Securities Ltd SHANTIVIJAY JEWELS LTD ROOPA INDUS BALAJI AMINES LTD. Arihants Securities Ltd REGAL ENTERTAINMENT & CONSULT.LTD Competent Automobiles Ltd Neelkanth Rockminerals Ltd CONTINEN CRE National Wind Power Corporation Ltd NIHAR INFO GLOBAL LTD. Indo-Castle Multimedia Ltd LAKHANI INDI TULIP STAR H UNITED CREDIT LTD Om Metals & Minerals Ltd Optel Telecommunications Ltd MOUNT EVEREST MINERAL WATER Surana Corporation Ltd Gothi Plascon (India) Ltd GDR MEDIA JYOTI COSMETICS (EXIM) LTD PACIFIC COTS Ceenik Exports (India) Ltd PATEL ENGINEERING LTD. Sierra Optima Ltd Virtualsoft Systems Ltd Enrich Industries Ltd Inani Marbles & Industries Ltd MASCON GLOBA S & Y Mills Ltd EL FORGE LTD MEDICAMEN BIOTECH LTD. ENKEI CASTALLOY LTD. Hulta Pharmaceutical Export Ltd ALFAVISION OVERSEAS (INDIA) LTD. ORGANIC COATINGS LTD.
+
+REMSONSIND
+
+SRIADIKARI
+
+IOC
+
+NEPCPAPER
+
+OPTELCOMM
+
+CEENIKEXPO SIERRAOPT
+
+530891 530897 530919 530925 530931 530943 530949 530951 530953 530955 530959 530965 530973 530977 530979 530985 530989 530991 530999 531017 531033 531041 531049 531067 531077 531083 531084 531085 531088 531091 531092 531093 531096 531102 531111 531114 531115 531118 531119 531120 531121 531126 531127 531129 531131 531135 531144 531146 531147 531155 531156 531157
+
+CATVISION PR ABM Knowledgeware Ltd EMAMI LTD. Orient Information Technology Ltd SKP SECURITIES LTD PRANAVADITYA SPINNING MILLS LTD. SYSCHEM (I) BRELS INFOTECH LTD. Mefcom Capital Markets Ltd Arman Lease & Finance Ltd Mewar Industries Ltd Glance Finance Ltd Nucleus Software Exports Ltd COLINZ LABORATORIES LTD MANAPPURAM GENERAL FIN & LEASING RTS Power Corporation Ltd COMFORT INTECH LTD. WEST (I) SHIP MADAN FIN. Poonam Corporation Ltd Mayur Floorings Ltd Vibrant Investment & Properties Ltd (Wound-up) Anjani Synthetics Ltd Computech International Ltd FRONTIER INFORMATION TECHNO.LTD. Doon Valley Rice Ltd Rander Finance and Leasing Co Ltd Rasi Electrodes Ltd Victory Paper & Boards (India) Ltd Mewar Polytex Ltd Shamrock Industrial Co Ltd LINC PEN &PL Alpha Hi-Tech Fuel Ltd INDIA GELATINE & CHEMICALS LTD Transpek Finance Ltd Paragon Finance Ltd Pratiksha Chemicals Ltd KUSHAGRA SOFTWARE LTD. VST TILLERS TRACTORS LTD. B2B Software Technologies Ltd KLG Systel Ltd Dazzel Confindive Ltd Nikki Global Finance Ltd Radhe Developers (India) Ltd BOM.SWA.STOR Axis Capital Markets (India) Ltd Trishakti Electronics & Industries Ltd Pankaj Polymers Ltd Cindrella Financial Services Ltd Arham Plastics Ltd Interfit Techno Products Ltd Artefact Software & Finance Ltd
+
+ORIENTINFO
+
+NUCLEUS
+
+VIBRANTINV COMPUTECH DOONVALLEY
+
+KLGSYSTEL
+
+531158 531161 531162 531167 531169 531172 531173 531175 531176 531179 531194 531199 531209 531210 531213 531215 531216 531217 531218 531219 531221 531222 531223 531224 531225 531226 531228 531233 531234 531236 531240 531241 531247 531253 531254 531255 531257 531261 531266 531268 531269 531270 531272 531273 531276 531278 531279 531280 531283 531287 531289 531297
+
+Amit International Ltd DHP INDIA LTD. Available Finance Ltd TRANSCON RESEARCH & INFOTECH Maruti Securities Ltd Shri Shakti LPG Ltd Santaram Spinners Ltd Roselabs Finance Ltd MP TELELINKS LTD. CHARMS INDUS CARNATION NUTRA-ANALOGUE FOODS Channel Guide India Ltd Sangeeta Granites Ltd Gujarat Investa Ltd Container Corporation Of India Ltd Panacea Biotec Ltd SHREE RAJAST Choice International Ltd THE INDIAN SEAMLESS METAL TUBES LTD Karur KCP Packagings Ltd Kohinoor Broadcasting Corporation Ltd Wellwin Industry Ltd Sparc Systems Ltd Rushabh Precision Bearings Ltd KOTAWALA (INDIA) LTD. Centenial Surgical Suture Ltd Arihant Foundations & Housing Ltd Jayavant Products Ltd UPSURGE INVESTMENT & FIN. LTD. RATNABALI CAPITAL MARKETS LTD Padam Cotton Yarns Ltd Women Networks Ltd Polycon International Ltd INVINEX LABORATORIES LTD. G.G. AUTOMOTIVE GEARS LTD. ALLIANZ SECURITIES LTD. ZICOM ELE SE KIRAN PRINT Narendra Properties Ltd Mega Corporation Ltd Systel Infotech Ltd Tamil Nadu Newsprint & Papers Ltd BIRMINGHAM T ADVENT COMPUTERS SERVICES LTD. Shakti Pumps (India) Ltd MADHYA DESH PAPERS LTD. Goldstone Technologies Ltd STRESSCRETE NCC Finance Ltd MOHIT INDUSTRIES LTD. POLYLINK POL MINAXI TEXT.
+
+SHAKTIGAS
+
+CONCOR PANACEABIO
+
+WELLWININD RUSHABEAR
+
+TNPL
+
+GOLDTECH
+
+531300 531306 531310 531318 531319 531322 531323 531324 531326 531327 531335 531337 531338 531341 531344 531349 531351 531358 531362 531363 531366 531369 531370 531371 531373 531380 531381 531382 531390 531391 531395 531396 531397 531398 531399 531400 531404 531413 531416 531417 531418 531426 531428 531429 531431 531436 531439 531444 531452 531453 531454 531456
+
+CONTINENTAL CONTROLS LTD. Ispat Profiles India Ltd Nouveau Multimedia Ltd Q-FLEX CABLE COMPUTERSKILL LTD Kamper Concast Ltd Esskay Telecom Ltd SHREE YAAX PHARMA & COSMETICS Hitkari China Ltd FILMCITY MED SANYO IMPEX CG-VAK SOFTWARE & EXPORTS LTD Pentasoft Technologies Ltd Blue Coast Hotels & Resorts Ltd MADHUCON PROJECTS LTD. SYBLY INDUSTRIES LTD. Rajesh Exports Ltd Maris Spinners Ltd Eveready Industries India Ltd AASHEESH SECURITIES LTD Mahan Industries Ltd ADARSH DERIVATIVES LTD. ANKUSH FINSTOCK LTD. Rasoya Proteins Ltd Pal-Peugeot Ltd I.C.S.A. INDIA LTD ACE SOFTWARE EXPORTS LTD Maars Software International Ltd Betala Global Securities Ltd HATSUN AGRO PRODUCTS LTD. E.COM INFOTECH SRIVEN MULTI Rishabh Digha Steel & Allied Products Ltd Avon Organics Jindal Worldwide Ltd Vertex Technosoft Ltd SPL Ltd RAGHUNATH TOBACCO COMPANY LTD Coral India Finance & Housing Ltd Sanjivani Paranteral Ltd Ranjit Securities Ltd VAS ANIMATION & ENTERTAINMENT LTD. Rap Media Ltd Aditya International Ltd BILPOWER LTD. BAMPSL SECURITIES LTD. INCON ENGINEERS LTD Dover Securities Ltd Shyam Software Industries Ltd FDC Ltd GOGIA CAPITAL SERVICES LTD MY FELLOW FA
+
+ISPATPROF
+
+KAMPERCONC
+
+PENTACOMMU MOREPENHTL
+
+RAJESHEXPO UNIONCARBI
+
+PALPEUGEOT
+
+MAARSOFTW
+
+SPLLTD CORALFINAC
+
+ADITYAINTL
+
+FDC
+
+531460 531464 531465 531472 531474 531475 531478 531482 531485 531486 531488 531489 531492 531495 531497 531499 531500 531503 531508 531514 531515 531518 531519 531522 531523 531524 531525 531528 531530 531531 531533 531536 531539 531541 531543 531544 531548 531552 531556 531569 531572 531574 531583 531588 531590 531591 531594 531595 531598 531599 531600 531602
+
+PRRANETA INDUSTRIES LTD. GIVO LTD. Era Financial Services (India) Ltd EZ-COMM TRADE TECHNOLOGIES LTD. Neocure Therapeutics Ltd Silver Smith India Ltd LINCOLN PHARMACEUTICALS LTD. SWORD & SHIELD PHARMA LTD. SURAJ STAINL Rochees Breweries Ltd Marico Industries Ltd TOKYO FINANCE LTD. Southern Ispat Ltd RFL International Ltd Western Industries Ltd TRIJAL INDUSTRIES LTD. TSL INDS Fairyland Amusement and Water Parks Ltd Hittco Tools Ltd INTENSIVE AIR SYSTEMS LTD. CLASSIC BIO. Bisil Plast Ltd Inani Securities Ltd TRICOM INDIA LTD. Mayur Leather Products Ltd CAT TECHNOLOGIES LTD. ANKUR DRUGS AND PHARMA LTD. ADVIK LABORATORIES LTD. KARUTURI.COM LTD. OCTOGON TECHNOLOGY LTD. SEAGULL LEAFIN LTD. KHYATI MULTIMEDIA ENTERTAINMENT LTD SPBL LTD. SHUKUN CONSTRUCTION LTD. VIDHI DYESTUFFS MANUFACTURING LTD. Anik Ship Breaking Industries Ltd Bhagiradha Chemicals & Industries Ltd Zen Global Finance Ltd Menon Pistons Ltd Nicco Corporation Ltd Silicon Valley Infotech Ltd PRUDENTIAL PHARMACEUTICALS LTD. Gini Silk Mills Ltd Prajay Engineers Syndicate Ltd ENCORE SOFTWARE LTD. WELLWORTH OVERSEAS LTD. Unjha Formulations Ltd Poly Medicure Ltd Intellvisions Software Ltd SURYADEEP SALT REFINERY & CHEM.WORK OASIA MEDIA Osian LPG Bottling
+
+NEOCURTHER
+
+MARICOIND
+
+WESTINDSEC
+
+ANIKSHIP ZENGLOBAL NICCOCORP PRASGLOFIN
+
+531611 531613 531615 531621 531624 531626 531633 531637 531638 531639 531642 531644 531645 531646 531649 531658 531659 531660 531661 531663 531670 531671 531672 531675 531680 531682 531683 531686 531687 531688 531690 531692 531702 531715 531717 531718 531719 531721 531727 531734 531738 531739 531744 531746 531750 531752 531762 531768 531777 531781 531782 531791
+
+JAVELIN TECHNOLOGIES LTD. ATUL AUTO LTD. SHEETAL SECURITIES FINANCE LTD. ING Vysya Bank Ltd METAL COATINGS (INDIA) LTD. SGN Telecoms Ltd IT MICROSYSTEMS (INDIA) LTD. Arvind Remedies Ltd Mandu Industries Ltd - Merged Todays Writing Products Ltd Eicher Ltd Eicher Limited AKL SOFT & INFOSYS (INDIA) LTD. J J Spectrum Silk Ltd IEC SOFTWARES LTD. LAHOTI OVER. Zenith Ltd ASIAN STAR Kamal Overseas Consortex Karl Doelitzch (India) Ltd Oriental Veneer Products Ltd JOINDRE CAPITAL SERVICES LTD. BHARAT FERTI Geekay Finance & Leasing Company Ltd Principal Capital Markets Ltd Sacheta Metals Ltd Pioneer Distilleries Ltd Arvind Chemicals Ltd KWALITY DAIRY (INDIA) LTD IDBI I-NIT95 Dividend Plan Rexnord Electronics & Controls Ltd Snowcem India Ltd Khandwala Securities Ltd VATSA MUSIC LTD Hitech Entertainment Ltd Sanguine Media Ltd SAARC Net Ltd NATIONAL FLASK INDUSTRIES LTD. Karuna Cables Ltd TWINSTAR SOF Dhampur Invertos Ltd INNOSOFT TEC Blue Chip India Ltd Beckons Industries Ltd GENIUS COMMU-TRADE MILLENNIUM CYBERTECH LTD. SUNITEE CHEMICALS LTD. Eider Infotech Ltd Intra Infotech Ltd JINDAL ONLINE.COM LTD. Bank of Madura Ltd (Merged) Indo Green Projects Ltd
+
+VYSYABANK
+
+ARL MANDUIND TODAYS EICHERLTD EICHER
+
+ZENITHLTD KAMALOVER APOWERTOOL
+
+IDBIMFDIV SNOWCEMIND KHANDSE VATSMUSC
+
+KARUNACAB
+
+BLUECHIP
+
+EIDERTELE
+
+BANKMADURA
+
+531794 531795 531800 531807 531810 531812 531816 531823 531828 531830 531835 531835 531838 531839 531840 531842 531845 531847 531850 531852 531859 531861 531862 531863 531866 531869 531879 531881 531882 531883 531888 531890 531892 531894 531897 531898 531901 531903 531904 531917 531923 531929 531936 531937 531939 531942 531945 531958 531959 531960 531966 531968
+
+Kedia Infotech Ltd Ambika Cotton Mills Ltd ASSOCIATED PROFILES & ALUMINIUM LTD NUMERO UNO CLC Global Ltd Janice Textiles Ltd Deccan Polypacks Ltd Interlink Financial Services Ltd Sam Industries Ltd INDOTECH CAPITAL MARKET LTD. GRAVITY (INDIA) LTD. LCC Infotech Ltd Senbo Industries Ltd SARANG CHEMICALS LTD. Jain Studios Ltd UNISTAR MULT Emmsons International Ltd SUNLINE TUBE HINDUSTAN SOFTEL LTD. GALAXY INFO-SOFT LTD. MALVICA ENGINEERING LTD. NUMERIC POWER SYSTEMS LTD. KAMLA DIALS & DEVICES LTD. Rashel Agrotech Ltd GUJARAT ARTH LTD. Triveni Engineering & Industries Ltd (Merged) Pasupati Fabrics Ltd INTERWORLD.COM LTD. K.Sera Sera Production Ltd. FAST TRACK F OCEAN INFRASTRUCTURE LTD. ORBIT MULTIMEDIA LTD. KIRTI FINVEST LTD. Venkat Pharma Ltd Kothari Petrochemicals Ltd Mukand Engineers Ltd INDO-CITY INFOTECH LTD. Mega Fin (India) Ltd REI AGRO LTD. REI Agro Ltd Medicorp Technologies India Ltd (Merged) Mansukh Industries Ltd (Wound-up) BRIJLAXMI LEASING & FINANCE LTD. PAN PACKAGING INDUSTRIES LTD. XO INFOTECH LTD. PENTIUM INFO Dena Bank BSEL Infrastructure Realty Ltd MOBILE TELE COMMUNICATIONS LTD. Hexaware Technologies Ltd TRIUMPH INTERNATIONAL FINANCE (I) IFGL Refractories Ltd
+
+LCCINFOTEC
+
+JAINSTUDIO
+
+TRIVENGIND PASUPATFAB
+
+KOTHARIPET MUKANDENGG
+
+REIAGRO MEDICOTECH MANSUKHIND
+
+DENABANK BSELINFRA HEXAWARE IFGLREFRAC
+
+531976 531978 531979 531983 531987 531988 531989 531998 532005 532010 532015 532019 532021 532031 532033 532035 532038 532039 532041 532047 532048 532051 532054 532055 532058 532062 532069 532072 532081 532084 532086 532091 532092 532093 532096 532097 532100 532105 532106 532106 532108 532110 532113 532114 532116 532117 532121 532123 532127 532129 532131 532133
+
+Bank of Baroda G-TECH INFO R M Mohite Textiles Ltd Andhra Cements Ltd SKM Egg Products Export (India) Ltd WELSPUN GUJ H.S.(I) LTD. Kolar Biotech Ltd. Bank of India Indraprastha Medical Corporation Ltd Rain Calcining Ltd ROBINSON IMP GAIL (India) Ltd Vaibhav Gems Ltd Gujarat State Financial Corporation Baffin Engineering Projects Ltd JK PAPER LTD. Saregama India Ltd Madras Fertilizers Ltd Datt Mediproducts Ltd Color Chips (India) Ltd Cybertech Systems & Software Ltd ICICI Bank Ltd Infotech Enterprises Ltd Panasonic AVC Networks India Co. Ltd ZIGMA SOFTWARE LTD. Engineers India Ltd Corporation Bank DHANLAK BANK Gujarat Mineral Development Corporation Ltd Ciba Specialty Chemicals (India) Ltd IndusInd Bank Ltd State Bank Of Travancore PSI Data Systems Ltd STATE BNK MY AMBUJA CEMENT EASTERN LTD. Cyanamid Agro Ltd (Merged) Jammu and Kashmir Bank Ltd City Union Bank Ltd Sun Earth Ceramics Ltd Archies Ltd VisualSoft Technologies Ltd UTI Bank Ltd HB Stockholdings Ltd South Indian Bank Ltd Energy Development Company Ltd Sonata Software Ltd BENGAL TEA & FABRICS LTD. National Aluminium Company Ltd IDBI Bank Ltd Radico-Khaitan Ltd (Merged) India Nippon Electricals Ltd
+
+BANKBARODA
+
+ANDHRACEM SKMEGGPROD WELSPUNGUJ
+
+BANKINDIA INDRAMEDCO RAINCALCIN GAIL VAIBHAVGEM GUJSTATFIN
+
+SAREGAMA MADRASFERT DATTMEDI ARHAMFISCL CYBERTECH ICICIBANK INFOTECENT PAVCI ENGINERSIN CORPBANK DHANBANK GMDCLTD CIBASPEC INDUSINDBK SBT PSIDATASYS
+
+CYAGRO J&KBANK CUB SUNEARTH ARCHIES VISUALSOFT UTIBANK HBSTOCK SOUTHBANK SONATSOFTW NATIONALUM IDBIBANK RADICOKHAI INDNIPPON
+
+532134 532139 532140 532141 532143 532144 532145 532148 532149 532150 532153 532154 532155 532156 532160 532161 532162 532163 532168 532171 532172 532173 532174 532175 532176 532177 532178 532179 532180 532181 532184 532187 532191 532199 532200 532201 532207 532209 532210 532211 532212 532214 532215 532216 532218 532219 532221 532230 532234 532235 532237 532240
+
+SQL STAR INTERNATIONAL LTD. Times Bank Ltd (merged) Polaris Software Lab Ltd Jindal Strips Ltd JINDAL STRIPS LTD. Apar Industries Ltd Apar Industries Limited TCI INDUS. Hughes Software Systems Ltd Kale Consultants Ltd CYBERMATE INFOTEK LTD. Centurion Bank Ltd Soffia Software Ltd LANDMARC LEISURE CORPORATION LTD. Syndicate Bank HCL Technologies Ltd AMTEK INDIA LTD. KAASHYAP RADIANT SYSTEMS LTD. TCFC FINANCE LTD. GEOJIT SECURITIES LTD. Jindal Steel & Power Ltd Induj Enertech Ltd BLB Ltd KDL Biotech Ltd Software Technology Group International Ltd Glenmark Pharmaceuticals Ltd Zenith Infotech Ltd Television Eighteen India Ltd Wockhardt Ltd Tata Coffee Ltd INTEGRATED HITECH LTD. KJMC GLOBAL MARKET (I) LTD. Ind-Swift Laboratories Ltd Compudyne Winfosystems Ltd Melstar Information Technologies Ltd EONOUR SOFTWARE LTD. Alstom Projects India Ltd Shree Rama Multi-Tech Ltd AMEX INFORMATION TECHNOLOGIES LTD. Geometric Software Solutions Company Ltd Mahindra Gesco Developers Ltd PENTAGON GLOBAL SOLUTIONS LTD. TELESYS SOFTWARE LTD. S KUMARS.COM LTD. GEMINI COMMUNICATIONS LTD. TVS FINANCE & SERVCIES LTD. NHN Corporation Ltd Cadila Healthcare Ltd Elder Pharmaceuticals Ltd SHIVA CEMENTS LTD. Cinevistaas Ltd Vital Communications Ltd
+
+TIMESBANK POLARIS JINDLSTRIP JSTRIPS GUJAPARPOL APARINDS HUGHESSOFT KALECONSUL CENBNK SOFFIASOFT SYNDIBANK HCLTECH
+
+JINDALSTEL INDUJENERT BLBLIMITED KOPDRUGS SOFTTECHGR GLENMARK ZENITHINFO TV18 WOCKPHARMA CONSCOFFEE
+
+INDSWFTLAB COMPUDYNE MELSTAR APIL SHREERAMA GEOMETRIC GESCOCORP
+
+CADILAHC ELDERPHARM CINEVISTA VITALCOMM
+
+532249 532252 532254 532256 532256 532259 532259 532262 532266 532268 532271 532273 532274 532275 532276 532281 532282 532283 532284 532285 532286 532287 532290 532291 532293 532296 532298 532299 532300 532301 532303 532304 532305 532306 532307 532308 532309 532310 532311 532312 532313 532314 532315 532316 532318 532319 532320 532321 532322 532323 532324 532325
+
+FORTUNE INFO Rane Brake Linings Ltd DANLAW TECHNOLOGIES LTD. BIOPAC INDIA CORPORATION LTD. Ajanta Pharma Ltd Softpro Systems Ltd HB PORTFOLIO HB ESTATE DE AMBICA AGARBATHIES & AROMA INDUS.LT Ambica Agarbathies & Aroma Industries Limited iGate Global Solutions Ltd iGate Global Solutions Ltd GDR SOFTWARE COMPUCOM SOFTWARE LTD. OMNI AXS SOFTWARE LTD. LOGIX MICROSYSTEMS LTD. BALWAS E-COM INDIA LTD. TVS Motor Company Ltd SOFTSOL INDIA LTD. Gati Ltd. Blue Star Infotech Ltd HELIOS & MATHESON INFORMN TECHNOLO Subex Systems Ltd TRANSPORT CO Padmalaya Telefilms Ltd Aksh Optifibre Ltd TELEPHOTO EN Triveni Engineering and Industries Ltd Mukta Arts Ltd TELE DATA INFORMATICS LTD. Tele Data Informatics Ltd SUNBEAM INFOTECH LTD. Vintage Cards & Creations Ltd Nagpur Power & Industries Ltd COMP-U-LEARN TECH INDIA LTD. CYBERSCAPE M Dynacons Systems & Solutions Ltd PNB Gilts Ltd Kanika Infocom Global Ltd LANCO GLOBAL SYSTEMS LTD. Ramco Industries Ltd Ramco Systems Ltd Tata Teleservices (Maharashtra) Ltd VIRINCHI TECHNOLOGIES LTD. DATANET SYSTEMS LTD. Sterlite Optical Technologies Ltd Tips Industries Ltd MRO-TEK Ltd BATHINA TECHNOLOGIES (INDIA) LTD. TABASSUM INTERNATIONAL LTD. IQMS Software Ltd GALAXY MULTIMEDIA LTD.
+
+RANEBRAKE
+
+AJANTPHARM SOFTPRO
+
+AMBICAAGAR IGS MASCOT
+
+TVSMOTOR
+
+BLUESTINFO SUBEX PADMALAYAT AKSHOPTFBR TEIL MUKTAARTS TELEDATAIN VINTAGE
+
+DYNACONS PNBGILTS
+
+RAMCOIND RAMCOSYS TATATELSER
+
+STROPTICAL TIPSINDLTD MRO-TEK
+
+532326 532328 532329 532330 532331 532332 532333 532334 532335 532335 532337 532337 532338 532339 532340 532341 532342 532343 532344 532345 532346 532347 532348 532349 532350 532351 532355 532356 532357 532358 532358 532359 532360 532362 532363 532364 532365 532366 532367 532368 532369 532370 532371 532372 532373 532374 532375 532376 532377 532378 532379 532380
+
+INDUS NETWORKS LTD. Balaji Telefilms Ltd Vision Organics Ltd SIRIS SOFT Aztec Software And Technology Services Ltd California Software Company Ltd Pritish Nandy Communications Ltd Indian Overseas Bank VALECHA ENGINEERING LTD. TajGVK Hotels & Resorts Ltd Opto Circuits (India) Ltd Creative Eye Ltd IT&T Ltd VANTEL TECH. CONTECH SOFT Usha Martin Infotech Ltd Adlabs Films Ltd KPIT Cummins Infosystems Ltd Vijaya Bank FOURTH GENARATION INFORMATION SYS. Saven Technologies Ltd CCS Infotech Ltd AVANTEL SOFTTECH LTD. MOSCHIP SEMICONDUCTORS TECHNOLOGY MEGASOFT LTD. SYNGENTA LTD TRANSCORP INTERNATIONAL LTD. Visesh Infotechnics Ltd CEREBRA INTEGRATED TECHNOLOGIES LTD IKF SOFTWARE.COM LTD. Mid-Day Multimedia Ltd E.STAR INFOTECH LTD. Andhra Bank D-Link (India) Ltd IQ INFOTECH Godrej Consumer Products Ltd Gulshan Chemfill Ltd BF UTILITIES McDowell & Co Ltd SMR UNISOFT Goldstone Teleservices Ltd Macmillan India Ltd RAINBOW DENIM LTD INDUJ INFOTECH LTD. CERA SANITARYWARE LTD. T. SPIRITUAL SOLVAY PHAR. SOUTH ASIA P Bharti Tele-Ventures Ltd SHALIMAR WIRES INDUSTRIES LTD COMPUAGE IFOCOM LTD. GULSHAN POLYOLS LTD
+
+BALAJITELE VISIONLTD AZTEC CALSOFT PNC IOB TAJGVK OPTOCIRCUI CREATIVEYE IT&T
+
+UMITL ADLABSFILM KPIT VIJAYABANK
+
+VISESHINFO
+
+MID-DAY ANDHRABANK D-LINK GODREJCP
+
+MCDOWELL-N GOLDTELE MACMILLAN
+
+BHARTI
+
+532381 532382 532383 532384 532385 532386 532387 532388 532389 532390 532391 532392 532395 532396 532397 532398 532399 532400 532401 532403 532404 532405 532406 532407 532408 532409 532410 532411 532413 532414 532416 532417 532418 532419 532421 532424 532425 532430 532432 532435 532439 532440 532441 532442 532443 532444 532447 532452 532454 532455 532456 532457
+
+AUNDE FAZE T Ponni Sugars (Erode) Ltd Punjab National Bank I-Flex Solutions Ltd Hazoor Media and Power Ltd. SRF POLYMERS MATHER & PLATT PUMP LTD MATHER & PLATT FIRE SYSTEMS LTD GLOFAME COTSPIN INDUSTRIES LTD. Aptech Ltd Union Bank of India UNITED BREW INDIA SEAMLESS STEELS & ALLOYS LTD. Allahabad Bank Noida Toll Bridge Company Ltd GRANULES INDIA LTD. Canara Bank BALMER LAWRIE INVESTMENT LTD. POKARNA LTD. Divis Laboratories Ltd ARVIND PRODUCTS LTD. Rane Engine Valves Ltd ECE INDUSTRIES LTD. Indo Gulf Fertilisers Ltd ASTRA MICROWAVE PRODUCTS LTD. Astra Microwave Products Ltd MICRO TECHNOLOGIES (I) LTD. RADICO KHAITAN LTD. SHRIRAM CITY UNION FINANCE LTD. Maruti Udyog Ltd Indo Rama Textiles Ltd RAJAPALAYAM MILLS LTD. POLYOLEFINS RUBBER CHEMICALS LTD. UCO Bank CNXIT BAG Films Ltd Jindal Stainless SUPRAJIT ENGINEERING LTD. EXCEL CROP CARE LTD. Excel Crop Care Limited SIEL SUGAR LTD. TVS Electronics Indraprastha Gas Ltd TV TODAY Surya Pharmaceutical Limited Patni Computer Systems Limited J K AGRIGENET J K SUGAR LTD Four Soft Ltd Petronet LNG Ltd Biocon Ltd Power Trading Corp. Ltd
+
+PONNIERODE PNB I-FLEX
+
+APTECHT UNIONBANK
+
+ALBK NOIDATOLL CANBK
+
+DIVISLAB REVL IGFLFERT ASTRAMICRO
+
+MARUTI INDORAMTEX
+
+UCOBANK CNXIT BAGFILMS JSTAINLESS
+
+EXCELCROP TVSELECT IGL TVTODAY SURYAPHARM PATNI
+
+FOURSOFT PETRONET BIOCON PTC
+
+532459 532460 532461 532466 532467 532468 532469 532470 532472 532475 532477 532478 532479 532480 532481 532482 532483 532485 532486 532488 532489 532490 532491 532492 532493 532493 532494 532497 532498 532500 532501 532503 532504 532505 532506 532507 532508 532509 532511 532511 532512 532513 532514 532515 532516 532517 532518 532519 532521 532522 532523 532524
+
+Bank Of Maharashtra Dishman Pharmaceuticals and Chemicals Ltd Ramkrishna Forgings Ltd Datamatics Technologies Ltd New Delhi Television Ltd Strides Arcolab Ltd Jaiprakash Associates Ltd Avery India Ltd Kojam Fininvest Limited Lumax Automotive Systems Ltd Ultratech Cemco Ltd Minda Industries Ltd Tata Consultancy Services Limited NIIT Technologies Ltd Crew B.O.S. Products Ltd Sah Petroleums Ltd Indiabulls Financial Services Ltd Dabur Pharma Century Plyboards (India) Ltd MSK Projects (India) Ltd NTPC S.A.L Steel Ltd JBM AUTO COMPONENTS LIMITED Parekh Aluminex Ltd Ontrack Systems Ltd DECCAN CHRONICLE HOLDINGS LIMITED Bharati Shipyard Ltd Dwarikesh Sugar Industries Ltd Micro Inks Ltd BSE SPICE Chettinad Cement Corporation Ltd Karnataka Bank Ltd Karur Vysya Bank Ltd Parrys Confectionery Ltd TIDE WATER OIL (INDIA) LTD. AMRUTANJAN LTD. GRABAL ALOK IMPEX LTD MCNALLY BHARAT ENGINEERING CO. LTD. MOVING PICTURE COMPANY (I) LTD. USHA INTERNATIONAL LTD. Xpro India Limited HISARMET PONDY OXIDES TERA SOFTWARE Bharat Rasayan Ltd Eastern Silk Industries Ltd Elgitread (India) Ltd Fertilizers & Chemicals Travancore Ltd Ginni Filaments Ltd Godavari Fertilizers & Chemicals Ltd Jaypee Hotels Ltd Nicco Corporation Ltd
+
+MAHABANK DISHMAN RKFORGE DATATECH NDTV STAR JPASSOCIAT AVERY KOJAMFIN LUMAXAUTO ULTRACEMCO TCS NIITTECH CREWBOS SAHPETRO INDIABULLS DABURPHARM MSKPROJ NTPC SALSTEEL JBMAUTOCOM
+
+DCHL BHARTISHIP DWARKESH MICRO CHETNADCEM KTKBANK KARURVYSYA PARRYSCON
+
+XPROINDIA
+
+BHARATRAS EASTSILK ELGITYRE FACT GINNIFILA GODAVRFERT JAYPEEHOT NICCOCORP
+
+532525 532526 532527 532528 532529 532531 532532 532533 532536 532537 532538 532539 532540 532541 532542 532543 532544 532545 532548 532553 532555 532604 532605 532606 532607 532608 532609 532610 532886 555555 590001 590002 590003 590004 590005 590006 590009 590010 590011 590012 590013 590018 590019 590020 590021 590022 590023 590024 590025 590026 590027 590028
+
+RPG Transmission Ltd Southern Petrochemicals Industries Corporation Ltd Titanor Components Ltd Zen Technologies Ltd new AGRO TECH FOODS LIMITED Andhra Sugars Ltd Aravali Industries Ltd Duncans Industries Ltd Easun Reyrolle Ltd Growth Techno Projects Ltd JINDAL STAINLESS LTD K C P Ltd KCP Sugar & Industries Corporation Ltd Khaitan (India) Ltd Kirloskar Electric Company Ltd Lakshmi Vilas Bank Ltd LIQUID BENCHMARK ETS NIFTY (S&P CNX) NIFTY BMARK EXCH. TRD FND NIFTY JR BENCHMARK ETF Organon (India) Ltd Radaan Mediaworks (I) Ltd RADICO KHAITAN LTD S&P CNX NIFTY UTI ETF Sai Television Ltd Saraswati Industrial Syndicate Ltd Sundaram Brake Linings Ltd Sundaram Finance Ltd TRANSPORT CORPN OF INDIA United Phosphorus Ltd UTI - UGS 5000 Vardhman Acrylics Ltd VENKYS (INDIA) LIMITED Welspun India Ltd Wheels India Ltd Balaji Sponge Ltd Balaji Sponge Ltd Balaji Sponge Ltd DREDGECORP Tata Sponge Iron Ltd Tata Motors Ltd STRIDES ARCO Benchmark Mutual Fund Vishal Exports Overseas Ltd SKF India Usha Mart
+
+SAELTD SPIC TITANOCOMP
+
+590029 590030 590031 590032 990001 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+ATFL ANDHRSUGAR ARAVALIIND DUNCANSIND EASUNREYRL GROWTECHNO JSTAINLESS KCP KCPSUGIND KHAITANLTD KIRELECTRI LAKSHVILAS LIQUIDBEES NIFTY NIFTYBEES JUNIORBEES INFARINDIA RADAAN RADICO UTISUNDER SAITELE SARASIND SUNDRMBRAK SUNDARMFIN TCI SEARCHEMIN UGS5000 VARDHACRLC VENKEYS WELSPUNPOL WHEELS BALASPONGE BALASPONGE BALASPONGE DREDGECORP TATASPONGE TELCO BANKBEES VISHALEXPO SKFINDIA USHAMART
+
+
